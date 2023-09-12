@@ -32,7 +32,7 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
 
 ## :bulb: Conhecimentos
 
-A formação técnica e graduação em Engenharia me proporcionou ótimos conhecimentos em exatas, estou buscando aproveitar tais conhecimentos pra especializar numa área de desenvolvimento voltada para mineração e análise de dados, otimizar rotinas, e desenvolver produtos que facilitem o trabalho acadêmico, logístico e financeiro, setores que possuo rxperiência profissional mais recente. Pra isso meu foco hoje é desenvolver habilidades mais sólidas com banco de dados e linguagens Python e Typescript.
+A formação técnica e graduação em engenharia me proporcionaram ótimos conhecimentos em exatas, estou buscando aproveitar essa base pra especializar numa área de desenvolvimento voltada para mineração e análise de dados, otimizar rotinas, e desenvolver softwares que facilitem o trabalho acadêmico, logístico e financeiro, setores que possuo experiência profissional mais recente. Pra isso meu foco hoje é desenvolver habilidades mais sólidas com banco de dados e linguagens Python e Typescript.
 
 
 <br />
