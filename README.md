@@ -9,7 +9,7 @@
 
 <div align='justify'>
  
-<img align="right" src="D:\backup\1622600779121.jpg" alt="Foto de perfil" width="150"/>
+<img align="right" src="https://avatars.githubusercontent.com/u/72934316?v=4" alt="Foto de perfil" width="150"/>
 
 Sou Rafael, sou casado, 40 anos. Estou em um momento de mudança profissional após anos trabalhando na indústria metalúrgica.
 Ao longo do tempo, graduação em engenharia mecatrônica e experiências acabei por desenvolver o interesse de explorar meus conhecimentos e evoluir em uma nova área, por isso estou neste momento buscando atuar em tecnologia, habilidades que estou adquirindo no curso de Análise e Desenvolvimento de Sistemas.
