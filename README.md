@@ -55,15 +55,18 @@ O site, visa de forma prática e simples, oferecer aos clientes os conteúdos ma
 ## Demonstrações
 <details>
 <summary><b>Carregando o Material</b></summary>
+ <br>
  ![](https://github.com/cpusfatec/cpusfatec/blob/main/Sprint%203/GIF-carregar-material.gif)
 </details>
 <details>
  <summary><b>Compra do Material de Português e Sala de Estudos</b></summary>
+ <br>
  ![](https://github.com/cpusfatec/cpusfatec/blob/main/Sprint%202/GIF%20DE%20COMPRAS.gif)
 </details>
  Utilizando modo Teste com dados de cartão virtual do Mercado Pago, efetuando a compra e abertura do material na "Sala de Estudos".
 <details>
  <summary><b>Acessando o Material (Texto, Vídeo e Jogo)</b></summary>
+ <br>
  ![](https://github.com/cpusfatec/cpusfatec/blob/main/Sprint%203/GIF-acessando-material.gif)
 </details>
 <br />
