@@ -22,10 +22,8 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
 <br />
 
 ### Contatos
-<br />
 - [Github](https://github.com/Rafael-Caje) 
 - [Linkedin](https://www.linkedin.com/in/rafaelcaje/)
-<br />
 
 ## Conhecimentos
 
