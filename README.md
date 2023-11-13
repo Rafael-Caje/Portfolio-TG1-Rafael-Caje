@@ -56,7 +56,8 @@ O site, visa de forma prática e simples, oferecer aos clientes os conteúdos ma
 <details>
 <summary><b>Carregando o Material</b></summary>
  <br>
-![](https://github.com/cpusfatec/cpusfatec/blob/main/Sprint%203/GIF-carregar-material.gif)
+   <td alignt="center"><img src="https://github.com/cpusfatec/cpusfatec/blob/main/Sprint%203/GIF-carregar-material.gif" alt=""/>
+   </td>
 </details>
 <details>
  <summary><b>Compra do Material de Português e Sala de Estudos</b></summary>
