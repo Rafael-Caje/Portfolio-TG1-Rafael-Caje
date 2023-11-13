@@ -62,25 +62,27 @@ O site, visa de forma prática e simples, oferecer aos clientes os conteúdos ma
 <details>
  <summary><b>Compra do Material de Português e Sala de Estudos</b></summary>
  <br>
-![](https://github.com/cpusfatec/cpusfatec/blob/main/Sprint%202/GIF%20DE%20COMPRAS.gif)
+   <td alignt="center"><img src="https://github.com/cpusfatec/cpusfatec/blob/main/Sprint%202/GIF%20DE%20COMPRAS.gif" alt=""/>
+   </td>
 </details>
  Utilizando modo Teste com dados de cartão virtual do Mercado Pago, efetuando a compra e abertura do material na "Sala de Estudos".
 <details>
  <summary><b>Acessando o Material (Texto, Vídeo e Jogo)</b></summary>
  <br>
-![](https://github.com/cpusfatec/cpusfatec/blob/main/Sprint%203/GIF-acessando-material.gif)
+   <td alignt="center"><img src="https://github.com/cpusfatec/cpusfatec/blob/main/Sprint%203/GIF-acessando-material.gif" alt=""/>
+   </td>
 </details>
 <br />
 
 ### Tecnologia do Site
 Backend: PHP e MyQSL | Frontend: HTML5, CSS3 e JavaScript
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
+'''
+PHP - Coletar informações do backend para o Frontend.
+JavaScript - Comunicação com banco de dados e estruturação do backend.
+HTML5 - Layout da experiência do usuário.
+CSS3 - Estilização do Frontend.
+MySQL - Banco de dados para armazenamento do material de cada curso e informações dos usuários.
+'''
 ### Ferramentas
 ##### Desenvolvimento do Site
 Escopo: [Wireframe](https://wireframe.cc/) | Template: [Desygner](https://desygner.com/) | Criação: [Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/) | Demonstração do site: [InfinityFree](https://infinityfree.net/)
