@@ -1,10 +1,6 @@
-<div align='center'>
- 
 # Rafael Pinto Cajé
 
 ## Introdução
-
-</div>
 
 <br />
 
@@ -32,7 +28,7 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
 
 <br />
 
-## :computer: Meus Projetos
+## Meus Projetos
 
 <br />
 
@@ -47,12 +43,9 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
  
 <br />
 
-<div align='center'>
 
-## :ballot_box_with_check: Projeto Integrador 1º Semestre
+## Projeto Integrador 1º Semestre
  
-</div>
-
 > [Repositório do Projeto](https://github.com/cpusfatec/cpusfatec)
 
 O site, visa de forma prática e simples, oferecer aos clientes os conteúdos mais visados na área da tecnologia e informação nos dias atuais, o setor que mais cresce no mercado de trabalho. Acompanhe nosso projeto e aprenda junto com a gente.
@@ -60,18 +53,19 @@ O site, visa de forma prática e simples, oferecer aos clientes os conteúdos ma
 <br />
 
 ## Demonstrações
-
+<details>
 ##### Carregando o Material
 ![](https://github.com/cpusfatec/cpusfatec/blob/main/Sprint%203/GIF-carregar-material.gif)
-
+</details>
+<details>
 ##### Compra do Material de Português e Sala de Estudos
-Utilizando modo Teste com dados de cartão virtual do Mercado Pago, efetuando a compra e abertura do material na "Sala de Estudos".
-
 ![](https://github.com/cpusfatec/cpusfatec/blob/main/Sprint%202/GIF%20DE%20COMPRAS.gif)
-
+</details>
+Utilizando modo Teste com dados de cartão virtual do Mercado Pago, efetuando a compra e abertura do material na "Sala de Estudos".
+<details>
 ##### Acessando o Material (Texto, Vídeo e Jogo)
 ![](https://github.com/cpusfatec/cpusfatec/blob/main/Sprint%203/GIF-acessando-material.gif)
-
+</details>
 <br />
 
 ### Tecnologia do Site
