@@ -76,13 +76,13 @@ O site, visa de forma prática e simples, oferecer aos clientes os conteúdos ma
 
 ### Tecnologia do Site
 Backend: PHP e MyQSL | Frontend: HTML5, CSS3 e JavaScript
-´´´
+```
 PHP - Coletar informações do backend para o Frontend.
 JavaScript - Comunicação com banco de dados e estruturação do backend.
 HTML5 - Layout da experiência do usuário.
 CSS3 - Estilização do Frontend.
 MySQL - Banco de dados para armazenamento do material de cada curso e informações dos usuários.
-´´´
+```
 ### Ferramentas
 ##### Desenvolvimento do Site
 Escopo: [Wireframe](https://wireframe.cc/) | Template: [Desygner](https://desygner.com/) | Criação: [Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/) | Demonstração do site: [InfinityFree](https://infinityfree.net/)
