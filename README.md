@@ -21,18 +21,15 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
 
 <br />
 
-## :iphone: Contatos
-
+### Contatos
 <br />
- 
-<a href="https://github.com/Rafael-Caje" target="_blanck"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/rafaelcaje/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+- [Github](https://github.com/Rafael-Caje) 
+- [Linkedin](https://www.linkedin.com/in/rafaelcaje/)
 <br />
 
-## :bulb: Conhecimentos
+## Conhecimentos
 
-A formação técnica e graduação em engenharia me proporcionaram ótimos conhecimentos em exatas, estou buscando aproveitar essa base pra especializar numa área de desenvolvimento voltada para mineração e análise de dados, otimizar rotinas, e desenvolver softwares que facilitem o trabalho acadêmico, logístico e financeiro, setores que possuo experiência profissional mais recente. Pra isso meu foco hoje é desenvolver habilidades mais sólidas com banco de dados e linguagens Python e Typescript.
+<p align="justify">A formação técnica e graduação em engenharia me proporcionaram ótimos conhecimentos em exatas, estou buscando aproveitar essa base pra especializar numa área de desenvolvimento voltada para mineração e análise de dados, otimizar rotinas, e desenvolver softwares que facilitem o trabalho acadêmico, logístico e financeiro, setores que possuo experiência profissional mais recente. Pra isso meu foco hoje é desenvolver habilidades mais sólidas com banco de dados e linguagens Python e Typescript.</p>
 
 
 <br />
