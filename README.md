@@ -53,7 +53,7 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
 
 <br />
 
-## Demonstrações
+## O Projeto
 <details>
 <summary><b>Carregando o Material</b></summary>
  <br>
@@ -131,7 +131,7 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 
 <br />
 
-## Demonstrações
+## O Projeto
 <details>
 <summary><b>Demonstração do Funcionamento</b></summary>
  <br>
