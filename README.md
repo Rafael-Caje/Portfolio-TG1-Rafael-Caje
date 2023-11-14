@@ -177,8 +177,6 @@ Como Product Owner, fui responsável por representar os interesses e necessidade
 
 ## Soft Skills
 
-## Soft Skills
-
 1. **Liderança:**
    Como líder, meu papel foi inspirar e orientar a equipe na direção certa. Comprometido em estabelecer metas claras, motivar membros da equipe e proporcionar um ambiente onde cada pessoa possa contribuir com seu melhor. Acredito em liderar pelo exemplo, demonstrando integridade e resiliência para superar desafios nas minhas próprias tarefas.
 
