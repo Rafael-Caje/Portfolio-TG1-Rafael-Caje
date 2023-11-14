@@ -163,9 +163,8 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 
 
 ## Contribuições Pessoais
-<p align="justify">Nesse projeto fui o Scrum Master, organizando reuniões de alinhamento, acompanhando e dando suporte nas tarefas de cada um da equipe, fazendo pesquisas, administrando o Github, Story Cards com suas pontuações após o Planning Poker, Atualizações de Backlog e Burndown. Acompanhei o desenvolvedor para aproveitar algum conhecimento inicial da linguagem PHP, HTML e CSS ao longo das Sprints.
-Como Product Owner, fui responsável por representar os interesses e necessidades dos stakeholders, orientando a equipe na entrega de um produto de alto valor. Minha função foi clara: definir e priorizar o backlog do produto, garantindo que as funcionalidades mais cruciais fossem desenvolvidas primeiro. Constantemente colaborei com a equipe de desenvolvimento, esclarecendo requisitos, fornecendo feedback e tomando decisões rápidas para manter o projeto no caminho certo. Fui o ponto de contato entre as partes interessadas e a equipe, assegurando que as expectativas se alinhem com as capacidades do produto. Minhas decisões foram baseadas em dados, feedback do usuário e uma visão estratégica do produto, com o objetivo de maximizar o valor entregue a cada sprint. O sucesso do produto foi meu compromisso, e trabalhei incansavelmente para garantir que ele atendesse ou superasse as expectativas de todos os envolvidos.
-</p>
+<p align="justify">Nesse projeto fui o Scrum Master, organizando reuniões de alinhamento, acompanhando e dando suporte nas tarefas de cada um da equipe, fazendo pesquisas, administrando o Github, Story Cards com suas pontuações após o Planning Poker, Atualizações de Backlog e Burndown. Acompanhei o desenvolvedor para aproveitar algum conhecimento inicial da linguagem PHP, HTML e CSS ao longo das Sprints.</p>
+<p align="justify">Como Product Owner, fui responsável por representar os interesses e necessidades dos stakeholders, orientando a equipe na entrega de um produto de alto valor. Minha função foi clara: definir e priorizar o backlog do produto, garantindo que as funcionalidades mais cruciais fossem desenvolvidas primeiro. Constantemente colaborei com a equipe de desenvolvimento, esclarecendo requisitos, fornecendo feedback e tomando decisões rápidas para manter o projeto no caminho certo. Fui o ponto de contato entre as partes interessadas e a equipe, assegurando que as expectativas se alinhem com as capacidades do produto. Minhas decisões foram baseadas em dados, feedback do usuário e uma visão estratégica do produto, com o objetivo de maximizar o valor entregue a cada sprint. O sucesso do produto foi meu compromisso, e trabalhei incansavelmente para garantir que ele atendesse ou superasse as expectativas de todos os envolvidos.</p>
 
 ## Hard Skills
 
@@ -178,11 +177,13 @@ Como Product Owner, fui responsável por representar os interesses e necessidade
 ## Soft Skills
 
 1. **Liderança:**
-   Como líder, meu papel foi inspirar e orientar a equipe na direção certa. Comprometido em estabelecer metas claras, motivar membros da equipe e proporcionar um ambiente onde cada pessoa possa contribuir com seu melhor. Acredito em liderar pelo exemplo, demonstrando integridade e resiliência para superar desafios nas minhas próprias tarefas.
+   - Atividade: Como líder, meu papel foi inspirar e orientar a equipe na direção certa. Comprometido em estabelecer metas claras, motivar membros da equipe e proporcionar um ambiente onde cada pessoa possa contribuir com seu melhor. Acredito em liderar pelo exemplo, demonstrando integridade e resiliência para superar desafios nas minhas próprias tarefas.
 
 2. **Comunicação:**
-   A comunicação eficaz é a chave para o sucesso de qualquer projeto. Eu me esforçei para garantir que as informações fossem transmitidas de maneira clara e compreensível para todos os membros da equipe e stakeholders. Além de expressar minhas ideias de forma articulada, também priorizei ouvir atentamente, incentivando um diálogo aberto e construtivo.
+   - Atividade: A comunicação eficaz é a chave para o sucesso de qualquer projeto. Eu me esforçei para garantir que as informações fossem transmitidas de maneira clara e compreensível para todos os membros da equipe e stakeholders. Além de expressar minhas ideias de forma articulada, também priorizei ouvir atentamente, incentivando um diálogo aberto e construtivo.
 
 3. **Empatia:**
-   A empatia é fundamental para construir relacionamentos sólidos. Tentei entender as necessidades, preocupações e perspectivas de cada membro da equipe, cultivando um ambiente onde todos se sentissem valorizados. Isso não apenas fortaleceu as relações interpessoais, mas também contribuiu para uma colaboração mais eficaz e um clima de trabalho positivo.
+   - Atividade: A empatia é fundamental para construir relacionamentos sólidos. Tentei entender as necessidades, preocupações e perspectivas de cada membro da equipe, cultivando um ambiente onde todos se sentissem valorizados. Isso não apenas fortaleceu as relações interpessoais, mas também contribuiu para uma colaboração mais eficaz e um clima de trabalho positivo.
+
+---
 
