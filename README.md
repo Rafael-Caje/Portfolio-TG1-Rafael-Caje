@@ -44,12 +44,26 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
 <br />
 
 
-## Projeto Integrador 1º Semestre
+## CPU - 1º Semestre
  
 > [Repositório do Projeto](https://github.com/cpusfatec/cpusfatec)
 <p align="center"><img src="https://github.com/Rafael-Caje/Portifolio-TG1-Rafael-Caje/blob/main/image/capa1.jpg" widht="20%"></img>
 
-<p align="justify">O site, visa de forma prática e simples, oferecer aos clientes os conteúdos mais visados na área da tecnologia e informação nos dias atuais, o setor que mais cresce no mercado de trabalho. Acompanhe nosso projeto e aprenda junto com a gente.</p>
+<p align="justify">O Centro de Programação Universitário (CPU), visa de forma prática e simples, oferecer aos clientes os conteúdos mais visados na área da tecnologia e informação nos dias atuais, o setor que mais cresce no mercado de trabalho. O produto finalizado entregou os seguintes componentes e recursos:</p>
+
+##### Materiais a venda
+- Português (Pontuação e concordância)
+- Matemática (Lógica e Grafos)
+- Arquitetura e Organização de Computadores
+- Lógica de Programação
+- Laboratório de Hardware
+- Inglês
+- 
+##### Geral
+- Materiais em textos, vídeos e jogos
+- Cadastro/Login
+- Carrinho de compras e lista de materiais do cliente
+- Funções administrativas (gerenciamento e relatórios)
 
 <br />
 
@@ -109,7 +123,7 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 ## Soft Skills
 
 1. **Liderança:**
-   - Atividade: Corrdenei esforços da equipe, estabeleci metas e foquei em motivar membros para alcançar objetivos comuns.
+   - Atividade: Coordenei esforços da equipe, estabeleci metas e foquei em motivar membros para alcançar objetivos comuns.
 
 2. **Flexibilidade:**
    - Atividade: Adaptação a mudanças nos requisitos de projetos, assimilação de novas tecnologias e abordagens, demonstrando capacidade de se ajustar a diferentes situações.
