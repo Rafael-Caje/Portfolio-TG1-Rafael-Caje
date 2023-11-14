@@ -159,7 +159,7 @@ Template: [Figma](https://www.figma.com) | Criação: [Visual Studio](https://vi
 Editor (Variedade de fontes): [Online Image Editor](https://www.online-image-editor.com) | Montagem: [Polish](https://play.google.com/store/apps/details?id=photo.editor.photoeditor.photoeditorpro&hl=pt_BR&gl=US) | Remover fundos: [Background Eraser](https://play.google.com/store/apps/details?id=com.handycloset.android.eraser&hl=en_US&gl=US)
 
 ##### Organização e controle
-Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/) | Gerenciamento: [Bitrix24](https://www.bitrix24.net/), [EasyBacklog](https://easybacklog.com/) e [Planner](https://www.microsoft.com/pt-br/microsoft-365/business/task-management-software)
+Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/) | [EasyBacklog](https://easybacklog.com/) e [Planner](https://www.microsoft.com/pt-br/microsoft-365/business/task-management-software)
 
 
 ## Contribuições Pessoais
