@@ -144,6 +144,15 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 <p align="justify">A empresa GSW nos forneceu dois tipos de arquivos, de diferentes modelos de dados, JIRA e JSON, e pediu para criarmos um software que unifique os dados de ambas as fontes, e com isso, um dashboard para a análise desses dados.</p>
 <p align="justify">O layout do Dashboard GSW deveria seguir a paleta de cores da empresa, a análise de dados deveria ter as opções para exibir um comparativo com gráfico de barras e pizza. Que poderiam selecionar se avaliariam projetos em try-out, em andamento, interrompidos ou finalizados. Também a possibilidade de analisar a demanda de trabalho por funcionário.</p>
 
+##### Requisitos utilitários
+- Análise de dados do STATUS dos projetos da empresa no gráfico pizza
+- Análise de demanda de trabalho por funcionário
+
+##### Requistos técnicos
+- Login para autenticação de usuário
+- Cadastro de novos usuários com acesso nível ADM
+- Atualização de dados de acesso
+
 <br />
 
 ## O Projeto
