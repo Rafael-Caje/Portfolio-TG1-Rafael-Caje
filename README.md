@@ -48,7 +48,7 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
  
 > [Repositório do Projeto](https://github.com/cpusfatec/cpusfatec)
 
-O site, visa de forma prática e simples, oferecer aos clientes os conteúdos mais visados na área da tecnologia e informação nos dias atuais, o setor que mais cresce no mercado de trabalho. Acompanhe nosso projeto e aprenda junto com a gente.
+<p align="justify">O site, visa de forma prática e simples, oferecer aos clientes os conteúdos mais visados na área da tecnologia e informação nos dias atuais, o setor que mais cresce no mercado de trabalho. Acompanhe nosso projeto e aprenda junto com a gente.</p>
 
 <br />
 
@@ -95,17 +95,29 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 
 
 ## Contribuições Pessoais
-Nesse projeto fui o Scrum Master, organizando reuniões de alinhamento, acompanhando e dando suporte nas tarefas de cada um da equipe, fazendo pesquisas, administrando o Github, Story Cards com suas pontuações após o Planning Poker, Atualizações de Backlog e Burndown. Acompanhei o desenvolvedor para aproveitar algum conhecimento inicial da linguagem PHP, HTML e CSS ao longo das Sprints.
+<p align="justify">Nesse projeto fui o Scrum Master, organizando reuniões de alinhamento, acompanhando e dando suporte nas tarefas de cada um da equipe, fazendo pesquisas, administrando o Github, Story Cards com suas pontuações após o Planning Poker, Atualizações de Backlog e Burndown. Acompanhei o desenvolvedor para aproveitar algum conhecimento inicial da linguagem PHP, HTML e CSS ao longo das Sprints.</p>
 
 ## Hard Skills
 
-- Desenvolvimento WEB (PHP, HTML & CSS)
-- Versionamento GIT
+1. **Desenvolvimento WEB (PHP, HTML & CSS):**
+   - Atividade: Contribuição no desenvolvimento web, utilizando PHP para o backend/frontend e HTML/CSS para o frontend. Implementação de funcionalidades e melhoria da experiência do usuário.
+
+2. **Versionamento GIT:**
+   - Atividade: Gerenciamento de código-fonte usando Git para controle de versão. Colaboração eficaz na equipe de desenvolvimento, controle de branches e resolução de conflitos de arquivos.
 
 ## Soft Skills
 
-- Liderança 
-- Flexibilidade
-- Organização
-- Trabalho em Equipe
+1. **Liderança:**
+   - Atividade: Corrdenei esforços da equipe, estabeleci metas e foquei em motivar membros para alcançar objetivos comuns.
+
+2. **Flexibilidade:**
+   - Atividade: Adaptação a mudanças nos requisitos de projetos, assimilação de novas tecnologias e abordagens, demonstrando capacidade de se ajustar a diferentes situações.
+
+3. **Organização:**
+   - Atividade: Gerenciamento de tarefas acadêmicas, cumprimento de prazos, organização de recursos e informações para garantir um fluxo de trabalho eficaz.
+
+4. **Trabalho em Equipe:**
+   - Atividade: Colaboração ativa em atividades da equipe, comunicação constante, compartilhamento de conhecimento e suporte aos colegas para alcançar metas coletivas.
+
+
 
