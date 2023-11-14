@@ -121,6 +121,68 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
    - Atividade: Colaboração ativa em atividades da equipe, comunicação constante, compartilhamento de conhecimento e suporte aos colegas para alcançar metas coletivas.
 
 ---
-- - -
------
 
+## Projeto Integrador 2º Semestre
+ 
+> [Repositório do Projeto](https://github.com/cpusfatec/DashBoard)
+<p align="center"><img src="https://github.com/Rafael-Caje/Portifolio-TG1-Rafael-Caje/blob/main/image/capa2.png" widht="20%"></img>
+
+<p align="justify">A empresa GSW nos deu dois tipos de arquivos, de diferentes modelos, e pediu para criarmos um software que unifique os dados de ambas as fontes, e com isso, um dashboard para a análise desses dados.</p>
+
+<br />
+
+## Demonstrações
+<details>
+<summary><b>Demonstração do Funcionamento</b></summary>
+ <br>
+   <td alignt="center"><img src="https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%204/GIF-PROJETO-SPRINT-4.gif" alt=""/>
+   </td>
+   <td alignt="center"><img src="https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%204/QUARTO-GIF-FIGMA.gif" alt=""/>
+   </td>
+</details>
+<br />
+
+### Tecnologia do Site
+Backend: PHP e MyQSL | Frontend: HTML5, CSS3 e JavaScript
+```
+PHP - Coletar informações do backend para o Frontend.
+JavaScript - Comunicação com banco de dados e estruturação do backend.
+HTML5 - Layout da experiência do usuário.
+CSS3 - Estilização do Frontend.
+MySQL - Banco de dados para armazenamento do material de cada curso e informações dos usuários.
+```
+### Ferramentas
+##### Desenvolvimento do Site
+Escopo: [Wireframe](https://wireframe.cc/) | Template: [Desygner](https://desygner.com/) | Criação: [Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/) | Demonstração do site: [InfinityFree](https://infinityfree.net/)
+
+##### Edição de Imagem
+Editor (Variedade de fontes): [Online Image Editor](https://www.online-image-editor.com) | Montagem: [Polish](https://play.google.com/store/apps/details?id=photo.editor.photoeditor.photoeditorpro&hl=pt_BR&gl=US) | Remover fundos: [Background Eraser](https://play.google.com/store/apps/details?id=com.handycloset.android.eraser&hl=en_US&gl=US)
+
+##### Organização e controle
+Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/) | Gerenciamento: [Bitrix24](https://www.bitrix24.net/), [EasyBacklog](https://easybacklog.com/) e [Planner](https://www.microsoft.com/pt-br/microsoft-365/business/task-management-software)
+
+
+## Contribuições Pessoais
+<p align="justify">Nesse projeto fui o Scrum Master, organizando reuniões de alinhamento, acompanhando e dando suporte nas tarefas de cada um da equipe, fazendo pesquisas, administrando o Github, Story Cards com suas pontuações após o Planning Poker, Atualizações de Backlog e Burndown. Acompanhei o desenvolvedor para aproveitar algum conhecimento inicial da linguagem PHP, HTML e CSS ao longo das Sprints.</p>
+
+## Hard Skills
+
+1. **Desenvolvimento WEB (PHP, HTML & CSS):**
+   - Atividade: Contribuição no desenvolvimento web, utilizando PHP para o backend/frontend e HTML/CSS para o frontend. Implementação de funcionalidades e melhoria da experiência do usuário.
+
+2. **Versionamento GIT:**
+   - Atividade: Gerenciamento de código-fonte usando Git para controle de versão. Colaboração eficaz na equipe de desenvolvimento, controle de branches e resolução de conflitos de arquivos.
+
+## Soft Skills
+
+1. **Liderança:**
+   - Atividade: Corrdenei esforços da equipe, estabeleci metas e foquei em motivar membros para alcançar objetivos comuns.
+
+2. **Flexibilidade:**
+   - Atividade: Adaptação a mudanças nos requisitos de projetos, assimilação de novas tecnologias e abordagens, demonstrando capacidade de se ajustar a diferentes situações.
+
+3. **Organização:**
+   - Atividade: Gerenciamento de tarefas acadêmicas, cumprimento de prazos, organização de recursos e informações para garantir um fluxo de trabalho eficaz.
+
+4. **Trabalho em Equipe:**
+   - Atividade: Colaboração ativa em atividades da equipe, comunicação constante, compartilhamento de conhecimento e suporte aos colegas para alcançar metas coletivas.
