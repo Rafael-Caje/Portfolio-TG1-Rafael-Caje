@@ -1,4 +1,4 @@
-# Rafael Pinto Cajé
+# Portifólio das APIs - ADS - Rafael Pinto Cajé
 
 ## Introdução
 
@@ -120,5 +120,7 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 4. **Trabalho em Equipe:**
    - Atividade: Colaboração ativa em atividades da equipe, comunicação constante, compartilhamento de conhecimento e suporte aos colegas para alcançar metas coletivas.
 
-
+---
+- - -
+-----
 
