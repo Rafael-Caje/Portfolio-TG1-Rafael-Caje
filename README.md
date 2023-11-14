@@ -47,6 +47,7 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
 ## Projeto Integrador 1º Semestre
  
 > [Repositório do Projeto](https://github.com/cpusfatec/cpusfatec)
+<p align="center"><img src="https://github.com/Rafael-Caje/Portifolio-TG1-Rafael-Caje/blob/main/image/capa1.jpg" widht="20%"></img>
 
 <p align="justify">O site, visa de forma prática e simples, oferecer aos clientes os conteúdos mais visados na área da tecnologia e informação nos dias atuais, o setor que mais cresce no mercado de trabalho. Acompanhe nosso projeto e aprenda junto com a gente.</p>
 
