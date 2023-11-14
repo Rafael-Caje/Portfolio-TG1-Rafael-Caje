@@ -178,7 +178,7 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 
 
 ## Contribuições Pessoais
-<p align="justify">Nesse projeto fui o Scrum Master, organizando reuniões de alinhamento, acompanhando e dando suporte nas tarefas de cada um da equipe, fazendo pesquisas, administrando o Github, Story Cards com suas pontuações após o Planning Poker, Atualizações de Backlog e Burndown. Acompanhei o desenvolvedor para aproveitar algum conhecimento inicial da linguagem PHP, HTML e CSS ao longo das Sprints.</p>
+
 <p align="justify">Como Product Owner, fui responsável por representar os interesses e necessidades dos stakeholders, orientando a equipe na entrega de um produto de alto valor. Minha função foi clara: definir e priorizar o backlog do produto, garantindo que as funcionalidades mais cruciais fossem desenvolvidas primeiro. Constantemente colaborei com a equipe de desenvolvimento, esclarecendo requisitos, fornecendo feedback e tomando decisões rápidas para manter o projeto no caminho certo. Fui o ponto de contato entre as partes interessadas e a equipe, assegurando que as expectativas se alinhem com as capacidades do produto. Minhas decisões foram baseadas em dados, feedback do usuário e uma visão estratégica do produto, com o objetivo de maximizar o valor entregue a cada sprint. O sucesso do produto foi meu compromisso, e trabalhei incansavelmente para garantir que ele atendesse ou superasse as expectativas de todos os envolvidos.</p>
 
 ## Hard Skills
