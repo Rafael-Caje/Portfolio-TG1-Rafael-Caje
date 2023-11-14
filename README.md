@@ -58,7 +58,7 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
 - Lógica de Programação
 - Laboratório de Hardware
 - Inglês
-- 
+
 ##### Geral
 - Materiais em textos, vídeos e jogos
 - Cadastro/Login
@@ -136,12 +136,13 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 
 ---
 
-## Projeto Integrador 2º Semestre
+## Dashboard GSW - 2º Semestre
  
 > [Repositório do Projeto](https://github.com/cpusfatec/DashBoard)
 <p align="center"><img src="https://github.com/Rafael-Caje/Portifolio-TG1-Rafael-Caje/blob/main/image/capa2.png" widht="20%"></img>
 
-<p align="justify">A empresa GSW nos deu dois tipos de arquivos, de diferentes modelos de dados, JIRA e JSON, e pediu para criarmos um software que unifique os dados de ambas as fontes, e com isso, um dashboard para a análise desses dados.</p>
+<p align="justify">A empresa GSW nos forneceu dois tipos de arquivos, de diferentes modelos de dados, JIRA e JSON, e pediu para criarmos um software que unifique os dados de ambas as fontes, e com isso, um dashboard para a análise desses dados.</p>
+<p align="justify">O layout do Dashboard GSW deveria seguir a paleta de cores da empresa, a análise de dados deveria ter as opções para exibir um comparativo com gráfico de barras e pizza. Que poderiam selecionar se avaliariam projetos em try-out, em andamento, interrompidos ou finalizados. Também a possibilidade de analisar a demanda de trabalho por funcionário.</p>
 
 <br />
 
