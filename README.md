@@ -282,7 +282,21 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 
 ## Contribuições Pessoais
 
-<p align="justify">Como Product Owner, fui responsável por representar os interesses e necessidades dos stakeholders, orientando a equipe na entrega de um produto de alto valor. Minha função foi clara: definir e priorizar o backlog do produto, garantindo que as funcionalidades mais cruciais fossem desenvolvidas primeiro. Constantemente colaborei com a equipe de desenvolvimento, esclarecendo requisitos, fornecendo feedback e tomando decisões rápidas para manter o projeto no caminho certo. Fui o ponto de contato entre as partes interessadas e a equipe, assegurando que as expectativas se alinhem com as capacidades do produto. Minhas decisões foram baseadas em dados, feedback do usuário e uma visão estratégica do produto, com o objetivo de maximizar o valor entregue a cada sprint. O sucesso do produto foi meu compromisso, e trabalhei incansavelmente para garantir que ele atendesse ou superasse as expectativas de todos os envolvidos.</p>
+<p align="justify">Durante o projeto Embraer OLD, assumi o desafio de atuar como desenvolvedor, utilizando minhas habilidades em backend JavaScript e frontend TypeScript. Este projeto representou uma transição significativa após experiências anteriores como Scrum Master e Product Owner.</p>
+
+### Desenvolvimento de Back-End para Análise de Pista de Pouso
+
+<p align="justify">No âmbito do desenvolvimento, fui responsável pela criação do código backend em JavaScript. Meu foco principal foi implementar lógicas avançadas para analisar a validade de arquivos Excel recebidos do frontend. Utilizando bibliotecas especializadas, desenvolvi um processo robusto de verificação, assegurando que apenas dados válidos fossem processados.</p>
+
+<p align="justify">Além disso, o backend foi projetado para receber parâmetros do frontend em TypeScript, permitindo uma comunicação eficiente entre as camadas. A análise desses parâmetros era essencial para o cálculo preciso do comprimento da pista de pouso, uma funcionalidade crítica para o contexto do projeto Embraer OLD.</p>
+
+### Contribuições Adicionais
+
+<p align="justify">Além do desenvolvimento técnico, destaco meu papel na promoção de boas práticas de desenvolvimento, garantindo a legibilidade do código, a modularidade e a eficiência do sistema como um todo. Isso não apenas facilitou a manutenção contínua do código, mas também contribuiu para uma integração harmoniosa entre o backend e o frontend.</p>
+
+<p align="justify">Essa experiência enriquecedora expandiu significativamente meu conjunto de habilidades técnicas, proporcionando-me uma compreensão mais profunda da interação entre diferentes camadas de uma aplicação e a importância de uma comunicação eficaz entre elas.</p>
+
+<p align="justify">O projeto Embraer OLD representa não apenas um marco em minha jornada como desenvolvedor, mas também uma demonstração clara da minha capacidade de abraçar novos desafios e entregar soluções sólidas em ambientes técnicos diversificados.</p>
 
 ## Hard Skills
 
