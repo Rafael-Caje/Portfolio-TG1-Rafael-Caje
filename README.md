@@ -115,24 +115,24 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 ## Hard Skills
 
 1. **Desenvolvimento WEB (PHP, HTML & CSS):**
-   - Atividade: Contribuição no desenvolvimento web, utilizando PHP para o backend/frontend e HTML/CSS para o frontend. Implementação de funcionalidades e melhoria da experiência do usuário.
+   - <p align="justify">Atividade: Contribuição no desenvolvimento web, utilizando PHP para o backend/frontend e HTML/CSS para o frontend. Implementação de funcionalidades e melhoria da experiência do usuário.</p>
 
 2. **Versionamento GIT:**
-   - Atividade: Gerenciamento de código-fonte usando Git para controle de versão. Colaboração eficaz na equipe de desenvolvimento, controle de branches e resolução de conflitos de arquivos.
+   - <p align="justify">Atividade: Gerenciamento de código-fonte usando Git para controle de versão. Colaboração eficaz na equipe de desenvolvimento, controle de branches e resolução de conflitos de arquivos.</p>
 
 ## Soft Skills
 
 1. **Liderança:**
-   - Atividade: Coordenei esforços da equipe, estabeleci metas e foquei em motivar membros para alcançar objetivos comuns.
+   - <p align="justify">Atividade: Coordenei esforços da equipe, estabeleci metas e foquei em motivar membros para alcançar objetivos comuns.</p>
 
 2. **Flexibilidade:**
-   - Atividade: Adaptação a mudanças nos requisitos de projetos, assimilação de novas tecnologias e abordagens, demonstrando capacidade de se ajustar a diferentes situações.
+   - <p align="justify">Atividade: Adaptação a mudanças nos requisitos de projetos, assimilação de novas tecnologias e abordagens, demonstrando capacidade de se ajustar a diferentes situações.</p>
 
 3. **Organização:**
-   - Atividade: Gerenciamento de tarefas acadêmicas, cumprimento de prazos, organização de recursos e informações para garantir um fluxo de trabalho eficaz.
+   - <p align="justify">Atividade: Gerenciamento de tarefas acadêmicas, cumprimento de prazos, organização de recursos e informações para garantir um fluxo de trabalho eficaz.</p>
 
 4. **Trabalho em Equipe:**
-   - Atividade: Colaboração ativa em atividades da equipe, comunicação constante, compartilhamento de conhecimento e suporte aos colegas para alcançar metas coletivas.
+   - <p align="justify">Atividade: Colaboração ativa em atividades da equipe, comunicação constante, compartilhamento de conhecimento e suporte aos colegas para alcançar metas coletivas.</p>
 
 ---
 
@@ -193,21 +193,21 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 ## Hard Skills
 
 1. **Desenvolvimento WEB (PHP, HTML & CSS):**
-   - Atividade: Trabalhei mais no backend (Javascript) auxiliando na análise e armazenamento dos dados coletados dos arquivos JIRA e JSON para guardar no MySQL.
+   - <p align="justify">Atividade: Trabalhei mais no backend (Javascript) auxiliando na análise e armazenamento dos dados coletados dos arquivos JIRA e JSON para guardar no MySQL.</p>
 
 2. **Versionamento GIT:**
-   - Atividade: Atualização do repositório do projeto, correção de conflitos de arquivos.
+   - <p align="justify">Atividade: Atualização do repositório do projeto, correção de conflitos de arquivos.</p>
 
 ## Soft Skills
 
 1. **Liderança:**
-   - Atividade: Como líder, meu papel foi inspirar e orientar a equipe na direção certa. Comprometido em estabelecer metas claras, motivar membros da equipe e proporcionar um ambiente onde cada pessoa possa contribuir com seu melhor. Acredito em liderar pelo exemplo, demonstrando integridade e resiliência para superar desafios nas minhas próprias tarefas.
+   - <p align="justify">Atividade: Como líder, meu papel foi inspirar e orientar a equipe na direção certa. Comprometido em estabelecer metas claras, motivar membros da equipe e proporcionar um ambiente onde cada pessoa possa contribuir com seu melhor. Acredito em liderar pelo exemplo, demonstrando integridade e resiliência para superar desafios nas minhas próprias tarefas.</p>
 
 2. **Comunicação:**
-   - Atividade: A comunicação eficaz é a chave para o sucesso de qualquer projeto. Eu me esforçei para garantir que as informações fossem transmitidas de maneira clara e compreensível para todos os membros da equipe e stakeholders. Além de expressar minhas ideias de forma articulada, também priorizei ouvir atentamente, incentivando um diálogo aberto e construtivo.
+   - <p align="justify">Atividade: A comunicação eficaz é a chave para o sucesso de qualquer projeto. Eu me esforçei para garantir que as informações fossem transmitidas de maneira clara e compreensível para todos os membros da equipe e stakeholders. Além de expressar minhas ideias de forma articulada, também priorizei ouvir atentamente, incentivando um diálogo aberto e construtivo.</p>
 
 3. **Empatia:**
-   - Atividade: A empatia é fundamental para construir relacionamentos sólidos. Tentei entender as necessidades, preocupações e perspectivas de cada membro da equipe, cultivando um ambiente onde todos se sentissem valorizados. Isso não apenas fortaleceu as relações interpessoais, mas também contribuiu para uma colaboração mais eficaz e um clima de trabalho positivo.
+   - <p align="justify">Atividade: A empatia é fundamental para construir relacionamentos sólidos. Tentei entender as necessidades, preocupações e perspectivas de cada membro da equipe, cultivando um ambiente onde todos se sentissem valorizados. Isso não apenas fortaleceu as relações interpessoais, mas também contribuiu para uma colaboração mais eficaz e um clima de trabalho positivo.</p>
 
 ---
 
@@ -301,18 +301,19 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 ## Hard Skills
 
 1. **Desenvolvimento WEB (TypeScript e JavaScript):**
-   - Atividade: No backend, utilizei TypeScript e JavaScript para desenvolver uma calculadora que processa o comprimento da pista de pouso, ao receber variáveis do frontend por meio do input do usuário e coleta de dados da aeronave.
+   - <p align="justify">Atividade: No backend, utilizei TypeScript e JavaScript para desenvolver uma calculadora que processa o comprimento da pista de pouso, ao receber variáveis do frontend por meio do input do usuário e coleta de dados da aeronave.</p>
 
 2. **Versionamento GIT:**
-   - Atividade: Mantive o repositório do projeto atualizado e corrigi conflitos de arquivos no processo de versionamento.
+   - <p align="justify">Atividade: Mantive o repositório do projeto atualizado e corrigi conflitos de arquivos.</p>
 
 ## Soft Skills
 
 1. **Proatividade:**
-   - Atividade: Assumi uma abordagem proativa no meu papel, antecipando desafios e tomando medidas preventivas. Busquei oportunidades para melhorar processos e eficiência, contribuindo para o progresso contínuo do projeto.
+   - <p align="justify">Atividade: Assumi uma abordagem proativa no meu papel, antecipando desafios e tomando medidas preventivas. Busquei oportunidades para melhorar processos e eficiência, contribuindo para o progresso contínuo do projeto.</p>
 
 2. **Colaboração:**
-   - Atividade: Priorizei a colaboração eficaz dentro da equipe, compartilhando conhecimento e apoiando colegas quando necessário. Trabalhei em conjunto para superar obstáculos e alcançar objetivos comuns.
+   - <p align="justify">Atividade: Priorizei a colaboração eficaz dentro da equipe, compartilhando conhecimento e apoiando colegas quando necessário. Trabalhei em conjunto para superar obstáculos e alcançar objetivos comuns.</p>
 
 3. **Entrega de Resultados:**
-   - Atividade: Demonstrei um compromisso consistente com a entrega de resultados focando na qualidade e na facilidade de entendimento do código. Estabeleci metas claras, mantive um foco constante na eficácia e assegurei que as tarefas fossem concluídas tentando ao máximo respeitar o tempo previsto, contribuindo assim para o sucesso do projeto.
+   - <p align="justify">Atividade: Demonstrei um compromisso consistente com a entrega de resultados focando na qualidade e na facilidade de entendimento do código. Estabeleci metas claras, mantive um foco constante na eficácia e assegurei que as tarefas fossem concluídas tentando ao máximo respeitar o tempo previsto, contribuindo assim para o sucesso do projeto.</p>
+
