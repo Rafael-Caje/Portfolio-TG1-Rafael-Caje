@@ -261,23 +261,23 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 <br />
 
 ### Tecnologia do Produto
-Backend: PHP e MyQSL | Frontend: HTML5, CSS3 e JavaScript
+Backend: MyQSL, Typescript e Javascript | Frontend: HTML5 e CSS3
 ```
-PHP - Coletar informações do banco de dados e fez a interface com Frontend.
-JavaScript - Processou os dados JIRA e JSON para armazenamento no MySQL.
-HTML5 - Layout da experiência do usuário.
-CSS3 - Estilização do Frontend.
-MySQL - Os dados foram convertidos e armazenados unificados no banco de dados.
+MySQL - Conversão e armazenenamento dados unificados no banco de dados, garantindo eficiência e integridade.
+TypeScript - Desenvolvimento backend em geral, comunicação com banco de dados, interface com frontend e ativação da API para funcionamento.
+JavaScript - Utilizado para coletar e fazer o processamento do cálculo, buscando informações do banco de dados e arquivo Excel vinculado à aeronave.
+HTML5 - Responsável pelo layout da experiência do usuário (UI), garantindo uma apresentação clara e acessível dos dados e funcionalidades. Aplicação das últimas práticas e recursos do HTML5 para aprimorar a interatividade.
+CSS3 - Estilização do frontend para proporcionar uma experiência visual atraente e coesa aos usuários. Implementação de técnicas avançadas do CSS3 para garantir responsividade e um design moderno e intuitivo.
 ```
 ### Ferramentas
 ##### Desenvolvimento do Site
-Template: [Figma](https://www.figma.com) | Criação: [Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/) | Demonstração do site: [InfinityFree](https://infinityfree.net/)
+Template: [Figma](https://www.figma.com) | Desenvolvimento: [Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/) | 
 
 ##### Edição de Imagem
-Editor (Variedade de fontes): [Online Image Editor](https://www.online-image-editor.com) | Montagem: [Polish](https://play.google.com/store/apps/details?id=photo.editor.photoeditor.photoeditorpro&hl=pt_BR&gl=US) | Remover fundos: [Background Eraser](https://play.google.com/store/apps/details?id=com.handycloset.android.eraser&hl=en_US&gl=US)
+Editor e Montagem de imagem: [Polish](https://play.google.com/store/apps/details?id=photo.editor.photoeditor.photoeditorpro&hl=pt_BR&gl=US) | Remover fundos: [Background Eraser](https://play.google.com/store/apps/details?id=com.handycloset.android.eraser&hl=en_US&gl=US)
 
 ##### Organização e controle
-Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/) | [EasyBacklog](https://easybacklog.com/) e [Planner](https://www.microsoft.com/pt-br/microsoft-365/business/task-management-software)
+Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/) | Documentação: [EasyBacklog](https://easybacklog.com/) e [Planner](https://www.microsoft.com/pt-br/microsoft-365/business/task-management-software)
 
 
 ## Contribuições Pessoais
@@ -300,19 +300,19 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 
 ## Hard Skills
 
-1. **Desenvolvimento WEB (PHP, HTML & CSS):**
-   - Atividade: Trabalhei mais no backend (Javascript) auxiliando na análise e armazenamento dos dados coletados dos arquivos JIRA e JSON para guardar no MySQL.
+1. **Desenvolvimento WEB (TypeScript e JavaScript):**
+   - Atividade: No backend, utilizei TypeScript e JavaScript para desenvolver uma calculadora que processa o comprimento da pista de pouso, ao receber variáveis do frontend por meio do input do usuário e coleta de dados da aeronave.
 
 2. **Versionamento GIT:**
-   - Atividade: Atualização do repositório do projeto, correção de conflitos de arquivos.
+   - Atividade: Mantive o repositório do projeto atualizado e corrigi conflitos de arquivos no processo de versionamento.
 
 ## Soft Skills
 
-1. **Liderança:**
-   - Atividade: Como líder, meu papel foi inspirar e orientar a equipe na direção certa. Comprometido em estabelecer metas claras, motivar membros da equipe e proporcionar um ambiente onde cada pessoa possa contribuir com seu melhor. Acredito em liderar pelo exemplo, demonstrando integridade e resiliência para superar desafios nas minhas próprias tarefas.
+1. **Proatividade:**
+   - Atividade: Assumi uma abordagem proativa no meu papel, antecipando desafios e tomando medidas preventivas. Busquei oportunidades para melhorar processos e eficiência, contribuindo para o progresso contínuo do projeto.
 
-2. **Comunicação:**
-   - Atividade: A comunicação eficaz é a chave para o sucesso de qualquer projeto. Eu me esforçei para garantir que as informações fossem transmitidas de maneira clara e compreensível para todos os membros da equipe e stakeholders. Além de expressar minhas ideias de forma articulada, também priorizei ouvir atentamente, incentivando um diálogo aberto e construtivo.
+2. **Colaboração:**
+   - Atividade: Priorizei a colaboração eficaz dentro da equipe, compartilhando conhecimento e apoiando colegas quando necessário. Trabalhei em conjunto para superar obstáculos e alcançar objetivos comuns.
 
-3. **Empatia:**
-   - Atividade: A empatia é fundamental para construir relacionamentos sólidos. Tentei entender as necessidades, preocupações e perspectivas de cada membro da equipe, cultivando um ambiente onde todos se sentissem valorizados. Isso não apenas fortaleceu as relações interpessoais, mas também contribuiu para uma colaboração mais eficaz e um clima de trabalho positivo.
+3. **Entrega de Resultados:**
+   - Atividade: Demonstrei um compromisso consistente com a entrega de resultados focando na qualidade e na facilidade de entendimento do código. Estabeleci metas claras, mantive um foco constante na eficácia e assegurei que as tarefas fossem concluídas tentando ao máximo respeitar o tempo previsto, contribuindo assim para o sucesso do projeto.
