@@ -40,9 +40,11 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
 
 <details>
  <summary><b>Exemplo de Cards</b></summary>
-   <td alignt="center">
+   <p align="center">
    <img src="https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/storys%20cards.png" alt=""/>
-   <sub align="center">Fonte: Próprio Autor (2021)</sub>
+   </br>
+   <center><sub>Fonte: Próprio Autor (2021)</sub></center>
+   </p>
 </details>
 
 ### Algumas Soft Skills da Metodologia Ágil
