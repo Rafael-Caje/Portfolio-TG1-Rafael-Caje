@@ -42,7 +42,7 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
  <summary><b>Exemplo de Cards</b></summary>
    <p align="center">
    <img src="https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/storys%20cards.png" alt=""/>
-   <center><sub>Fonte: Próprio Autor (2021)</sub></center>
+   <sub><center>Fonte: Próprio Autor (2021)</center></sub>
    </p>
 </details>
 
@@ -67,7 +67,7 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
   <summary><b>Exemplo de Backlog</b></summary>
    <p align="center">
    <img src="https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%204/backlog.png" alt=""/>
-   <center><sub>Fonte: Próprio Autor (2021)</sub></center>
+   <sub><center>Fonte: Próprio Autor (2021)</center></sub>
    </p>
 </details>
 
@@ -79,7 +79,7 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
  <summary><b>Exemplo de Burndown</b></summary>
    <p align="center">
    <img src="https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%204/burn%20project.png" alt=""/>
-   <center><sub>Fonte: Próprio Autor (2021)</sub></center>
+   <sub><center>Fonte: Próprio Autor (2021)</center></sub>
    </p>
 </details>
 
