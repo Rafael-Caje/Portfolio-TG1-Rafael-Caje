@@ -62,9 +62,12 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
 <p align="justify">Representa uma lista priorizada de funcionalidades desejadas para o produto. Cada item no backlog é uma história de usuário ou uma tarefa.</p>
 
 <details>
- <summary><b>Exemplo de Backlog</b></summary>
-   <td alignt="center"><img src="https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%204/backlog.png" alt=""/>
-   <p align="center" style="font-size: 6px; color: blue;">Fonte: Próprio Autor (2021)</p>
+  <summary><b>Exemplo de Backlog</b></summary>
+  <p align="center">
+    <img src="https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%204/backlog.png" alt=""/>
+    <br/>
+    <span style="font-size: 10px; color: grey;">Fonte: Próprio Autor (2021)</span>
+  </p>
 </details>
 
 #### Burndown
