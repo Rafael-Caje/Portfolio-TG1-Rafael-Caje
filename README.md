@@ -66,7 +66,7 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
   <p align="center">
     <img src="https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%204/backlog.png" alt=""/>
     <br/>
-    <span style="font-size: 10px; color: grey;">Fonte: Próprio Autor (2021)</span>
+    <span style="font-size: 8px; color: green;">Fonte: Próprio Autor (2021)</span>
   </p>
 </details>
 
