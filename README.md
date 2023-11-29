@@ -64,7 +64,7 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
 <details>
  <summary><b>Exemplo de Backlog</b></summary>
    <td alignt="center"><img src="https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%204/backlog.png" alt=""/>
-   <p align="center" style="font-size: 6px" color: blue>Fonte: Próprio Autor (2021)</p>
+   <p align="center" style="font-size: 6px; color: blue;">Fonte: Próprio Autor (2021)</p>
 </details>
 
 #### Burndown
