@@ -25,8 +25,58 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
 
 <p align="justify">A formação técnica e graduação em engenharia me proporcionaram ótimos conhecimentos em exatas, estou buscando aproveitar essa base pra especializar numa área de desenvolvimento voltada para mineração e análise de dados, otimizar rotinas, e desenvolver softwares que facilitem o trabalho acadêmico, logístico e financeiro, setores que possuo experiência profissional mais recente. Pra isso meu foco hoje é desenvolver habilidades mais sólidas com banco de dados e linguagens Python e Typescript.</p>
 
-
 <br />
+
+## Metodologia Ágil
+
+<p align="justify">A metodologia ágil é uma abordagem flexível e iterativa para o desenvolvimento de software. Ela prioriza a entrega contínua e incremental de produtos, respondendo rapidamente a mudanças nas necessidades do cliente. Algumas das práticas e conceitos-chave incluem:</p>
+
+### Planning Poker
+
+<p align="justify">Técnica usada para estimar o esforço relativo das tarefas. Os membros da equipe atribuem valores numéricos às histórias de usuário usando cartas de poker, facilitando a convergência das estimativas.</p>
+
+### Cards (Cartões)
+
+<p align="justify">Representam unidades de trabalho, geralmente em forma de histórias de usuário. Cada cartão contém detalhes sobre a funcionalidade a ser implementada, critérios de aceitação e estimativas de esforço.</p>
+
+<details>
+ <summary><b>Exemplo de Cards</b></summary>
+   - ![Imagem dos Cards](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/storys%20cards.png)
+   <p align="center" style="font-size: smaller; color: gray;">Fonte: Próprio Autor (2021)</p>
+</details>
+### Soft Skills em Metodologia Ágil
+
+- **Colaboração:** Trabalho em equipe e comunicação aberta são essenciais.
+- **Adaptabilidade:** Capacidade de se ajustar rapidamente a mudanças de requisitos.
+- **Empatia:** Compreensão das necessidades dos membros da equipe e dos stakeholders.
+- **Comunicação Efetiva:** Facilita o entendimento das tarefas e o progresso do projeto.
+
+### Estrutura dos Times de Desenvolvimento
+
+- **Papel do Scrum Master:** <p align="justify">Facilita o uso adequado da metodologia Scrum, removendo obstáculos e protegendo a equipe de interferências externas.</p>
+- **Product Owner:** <p align="justify">Representa as necessidades do cliente e prioriza o backlog do produto.</p>
+- **Time de Desenvolvimento:** <p align="justify">Autogerenciável, com habilidades multifuncionais.</p>
+
+#### Backlog
+
+<p align="justify">Representa uma lista priorizada de funcionalidades desejadas para o produto. Cada item no backlog é uma história de usuário ou uma tarefa.</p>
+
+<details>
+ <summary><b>Exemplo de Backlog</b></summary>
+   - ![Imagem do Backlog](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%204/backlog.png)
+   <p align="center" style="font-size: smaller; color: gray;">Fonte: Próprio Autor (2021)</p>
+</details>
+
+
+#### Burndown
+
+<p align="justify">Mostra o progresso diário do time em relação ao trabalho planejado no sprint. Ajuda a visualizar se a equipe está no caminho certo para concluir as tarefas.</p>
+
+<details>
+ <summary><b>Exemplo de Burndown</b></summary>
+   - ![Imagem do Burndown](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%204/burn%20project.png)
+   <p align="center" style="font-size: smaller; color: gray;">Fonte: Próprio Autor (2021)</p>
+</details>
 
 ## Meus Projetos
 
