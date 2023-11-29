@@ -40,10 +40,9 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
 
 <details>
  <summary><b>Exemplo de Cards</b></summary>
-   <p align="center">
+   <td alignt="center">
    <img src="https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/storys%20cards.png" alt=""/>
-   <sub><center>Fonte: Próprio Autor (2021)</center></sub>
-   </p>
+   <sub align="center">Fonte: Próprio Autor (2021)</sub>
 </details>
 
 ### Algumas Soft Skills da Metodologia Ágil
@@ -65,10 +64,9 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
 
 <details>
   <summary><b>Exemplo de Backlog</b></summary>
-   <p align="center">
+   <td alignt="center">
    <img src="https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%204/backlog.png" alt=""/>
-   <sub><center>Fonte: Próprio Autor (2021)</center></sub>
-   </p>
+   <sub>Fonte: Próprio Autor (2021)</sub>
 </details>
 
 #### Burndown
@@ -77,10 +75,9 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
 
 <details>
  <summary><b>Exemplo de Burndown</b></summary>
-   <p align="center">
+   <td alignt="center">
    <img src="https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%204/burn%20project.png" alt=""/>
-   <sub><center>Fonte: Próprio Autor (2021)</center></sub>
-   </p>
+   <sub>Fonte: Próprio Autor (2021)</sub>
 </details>
 
 ## Meus Projetos
