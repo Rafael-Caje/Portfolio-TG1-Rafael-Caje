@@ -41,7 +41,7 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
 <details>
  <summary><b>Exemplo de Cards</b></summary>
    <td alignt="center"><img src="https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/storys%20cards.png" alt=""/>
-   <p align="center" style="font-size: 10px; color: #008000;">Fonte: Próprio Autor (2021)</p>
+   <p align="center" style="font-size: 10px" color: #008000>Fonte: Próprio Autor (2021)</p>
 </details>
 
 ### Algumas Soft Skills da Metodologia Ágil
@@ -64,7 +64,7 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
 <details>
  <summary><b>Exemplo de Backlog</b></summary>
    <td alignt="center"><img src="https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%204/backlog.png" alt=""/>
-   <p align="center" style="font-size: smaller; color: blue;">Fonte: Próprio Autor (2021)</p>
+   <p align="center" style="font-size: 6px" color: blue>Fonte: Próprio Autor (2021)</p>
 </details>
 
 #### Burndown
@@ -74,7 +74,7 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
 <details>
  <summary><b>Exemplo de Burndown</b></summary>
    <td alignt="center"><img src="https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%204/burn%20project.png" alt=""/>
-   <p align="center" style="font-size: smaller; color: gray;">Fonte: Próprio Autor (2021)</p>
+   <p align="center" style="font-size: smaller" color: gray>Fonte: Próprio Autor (2021)</p>
 </details>
 
 ## Meus Projetos
