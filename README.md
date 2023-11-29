@@ -337,6 +337,7 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 - Login de acesso a funções especiais para avaliar, arquivar ou desarquivar chamados
 - Cadastro de novos usuários se tiver acesso nível ADM
 - Ao cadastrar modelo, o aplicativo testa se a Tabela de parâmetros vinculada ao avião cadastrado possui todos os campos preenchidos, se não retorna erro
+- Notificações no APP e por email
 
 <br />
 
@@ -388,11 +389,11 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 ## Contribuições Pessoais
 
 
-<p align="justify">Durante o projeto IONIC Deploy Manager, assumi novamente o papel de desenvolvedor, aplicando minhas habilidades em backend TypeScript, após estudos adquiridos em sala de aula e pesquisas. Pude desenvolver mais o conhecimento tecnico do Typescript.</p>
+<p align="justify">Durante o projeto IONIC Deploy Manager, assumi novamente o papel de desenvolvedor, aplicando minhas habilidades em backend TypeScript, após estudos adquiridos em sala de aula e pesquisas. Pude desenvolver mais o conhecimento tecnico da linguagem.</p>
 
 ### Desenvolvimento de Back-End para Análise de Pista de Pouso
 
-<p align="justify">Fui responsável por desenvolver partes do código backend em Typescript. Além de desenvolver as lógicas avançadas para cadastrar e registrar as avaliações, estudei e implementei diversos componentes. Destaco a inserção de notas nos chamados, a refatoração dos códigos existentes, a criação das notificações a cada nova etapa de um chamado aberto e o disparo de e-mails automáticos utilizando a interface com o serviço SMTP da Brevo.</p>
+<p align="justify">Fui responsável por desenvolver partes do código backend em Typescript, as lógicas avançadas para cadastrar e registrar as avaliações, estudei e implementei diversos componentes. Destaco a inserção de notas nos chamados, a refatoração dos códigos existentes, a criação das notificações a cada nova etapa de um chamado aberto e o disparo de e-mails automáticos utilizando a interface com o serviço SMTP da Brevo.</p>
 
 <p align="justify">O backend foi cuidadosamente projetado para receber parâmetros do frontend em TypeScript, permitindo uma comunicação eficiente entre as camadas. A análise e validação desses parâmetros era fundamental para o registro de dados e funcionamento.</p>
 
@@ -427,3 +428,126 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
    - <p align="justify">Atividade: Exerci empatia ao compreender as necessidades e perspectivas dos membros da equipe. Estabeleci um ambiente de trabalho colaborativo, onde as preocupações individuais foram reconhecidas e consideradas, fortalecendo os laços interpessoais e contribuindo para um clima positivo no projeto.</p>
 
 ---
+
+## FCManager - 5º Semestre
+ 
+> [Repositório do Projeto](https://github.com/meta-build/field-crew-manager)
+<p align="center"><img src="https://github.com/Rafael-Caje/Portifolio-TG1-Rafael-Caje/blob/main/image/capa5.png" widht="20%"></img>
+
+<p align="justify">O FCManager, desenvolvido para a empresa Imagem Geosistemas, é um aplicativo de campo voltado para o gerenciamento eficiente de equipamentos durante operações de conserto e manobras. Na construção desse projeto, adotamos React Native para as interfaces, Typescript para o servidor API, e MongoDB para o armazenamento de dados. A abordagem ágil do SCRUM foi fundamental para organizar e gerenciar o desenvolvimento.</p>
+
+<p align="justify">O propósito principal do FCManager é aprimorar a administração de equipamentos utilizados em campo, otimizando o acompanhamento de consertos e manobras realizadas por funcionários de diversas áreas. O sistema permite uma gestão abrangente de equipamentos, operações e usuários cadastrados.</p>
+
+<p align="justify">Nesse projeto, buscamos garantir eficiência e integridade nos registros, contribuindo para a confiabilidade das informações. A metodologia ágil SCRUM foi essencial para a organização do projeto, permitindo entregas incrementais e ajustes contínuos com base no feedback, resultando em um produto final alinhado com as necessidades da Imagem Geosistemas.</p>
+
+
+##### Requisitos operacionais e visuais
+- Campos intuitivos para preenchimento de chamados
+- Botões de abertura, edição, visualização e remoção
+- Mensagem de erro se houver campos não preenchidos
+- Estilização com paleta de cores da empresa
+
+##### Requisitos tecnicos
+- Login para autenticação de usuário com acesso apenas à abertura de chamado
+- Login de acesso a todas funções do aplicativo em caso de acesso ADM
+- Login de acesso a funções especiais para avaliar, arquivar ou desarquivar chamados
+- Cadastro de novos usuários se tiver acesso nível ADM
+- Ao cadastrar modelo, o aplicativo testa se a Tabela de parâmetros vinculada ao avião cadastrado possui todos os campos preenchidos, se não retorna erro
+- Notificações no APP e por email
+
+<br />
+
+## O Projeto
+
+<details>
+ <summary><b>Demonstração do Sistema</b></summary>
+ <br>
+ Visualização das solicitações em Avaliação e Produção
+   <td alignt="center"><img src="https://github.com/meta-build/Projeto-IONIC-Health/assets/90328897/349da3ae-b7b8-4ff2-9e12-b8814ba20bae" alt=""/>
+   </td>
+ Notificações para usuário solicitante
+   <td alignt="center"><img src="https://github.com/meta-build/Projeto-IONIC-Health/assets/90328897/eef94e7d-bad2-40b1-b4d4-5f01e1bc7048" alt=""/>
+   </td>
+ Permissões customizadas na criação e edição do usuário
+   <td alignt="center"><img src="https://github.com/meta-build/Projeto-IONIC-Health/assets/90328897/cea6abef-7585-456e-a3b8-bc4787d1c679" alt=""/>
+   </td>
+</details>
+
+<details>
+<summary><b>Design responsivo</b></summary>
+ <br>
+   <td alignt="center"><img src="https://github.com/meta-build/Projeto-IONIC-Health/assets/90328897/abc54a63-1370-4486-9a63-1d03f0974f41" alt=""/>
+   </td>
+</details>
+<br />
+
+### Tecnologia do Produto
+Backend: MySQL, TypeScript e Docker | Frontend: HTML5 e CSS3 | Deploy: Render
+```
+MySQL - Conversão e armazenamento de dados unificados no banco de dados, garantindo eficiência e integridade.
+TypeScript - Desenvolvimento principal do backend, comunicação com banco de dados, interface com frontend e ativação da API para funcionamento.
+Docker - Utilização do Docker para testes, proporcionando um ambiente de desenvolvimento consistente e fácil reprodução do ambiente em diferentes máquinas.
+HTML5 - Responsável pelo layout da experiência do usuário (UI), garantindo uma apresentação clara e acessível dos dados e funcionalidades. Aplicação das últimas práticas e recursos do HTML5 para aprimorar a interatividade.
+CSS3 - Estilização do frontend para proporcionar uma experiência visual atraente e coesa aos usuários. Implementação de técnicas avançadas do CSS3 para garantir responsividade e um design moderno e intuitivo.
+RENDER - Plataforma utilizada para renderizar o projeto web, fazer o DEPLOY, garantindo a visualização e interação adequadas.
+```
+### Ferramentas
+##### Desenvolvimento do Site
+Template: [Figma](https://www.figma.com) | Desenvolvimento: [Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/) | 
+
+##### Edição de Imagem
+Editor e Montagem de imagem: [Polish](https://play.google.com/store/apps/details?id=photo.editor.photoeditor.photoeditorpro&hl=pt_BR&gl=US) | Remover fundos: [Background Eraser](https://play.google.com/store/apps/details?id=com.handycloset.android.eraser&hl=en_US&gl=US)
+
+##### Organização e controle
+Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/) | Documentação: [EXCEL 2013](https://www.microsoft.com/pt-br/microsoft-365/previous-versions/microsoft-excel-2013)
+
+
+## Contribuições Pessoais
+
+
+<p align="justify">Durante o projeto IONIC Deploy Manager, assumi novamente o papel de desenvolvedor, aplicando minhas habilidades em backend TypeScript, após estudos adquiridos em sala de aula e pesquisas. Pude desenvolver mais o conhecimento tecnico da linguagem.</p>
+
+### Desenvolvimento de Back-End para Análise de Pista de Pouso
+
+<p align="justify">Fui responsável por desenvolver partes do código backend em Typescript, as lógicas avançadas para cadastrar e registrar as avaliações, estudei e implementei diversos componentes. Destaco a inserção de notas nos chamados, a refatoração dos códigos existentes, a criação das notificações a cada nova etapa de um chamado aberto e o disparo de e-mails automáticos utilizando a interface com o serviço SMTP da Brevo.</p>
+
+<p align="justify">O backend foi cuidadosamente projetado para receber parâmetros do frontend em TypeScript, permitindo uma comunicação eficiente entre as camadas. A análise e validação desses parâmetros era fundamental para o registro de dados e funcionamento.</p>
+
+### Contribuições Adicionais
+
+<p align="justify">Como um trabalho não se faz apenas com conhecimento tecnico, mas boa organização, mantive uma comunicação constante com os integrantes dos grupos, garantindo que o meu código não entrasse em conflito ao ser enviado para a branch do projeto no GitHub.</p>
+
+<p align="justify">Essa experiência enriquecedora expandiu significativamente meu conjunto de habilidades técnicas, proporcionando-me uma compreensão mais profunda da interação entre diferentes camadas de uma aplicação e a importância de uma comunicação eficaz entre elas.</p>
+
+<p align="justify">O projeto IONIC Deploy Manager atingiu novamente minhas expectativas de aprendizado, me forçando a busca de novos conhecimento e me desafiando descobrir meus próprios limites, explorando ao máximo minha capacidade de aprender e também ensinar, atuando em conjunto com minha equipe.</p>
+
+## Hard Skills
+
+1. **Componentes, boas práticas e refatoração (TypeScript):**
+   - <p align="justify">Atividade: No backend, utilizei TypeScript para desenvolver os componentes ligados a recepção dos dados do frontend, no caso as notas de avaliação, o registro dessas notas no banco de dados MySQL, a atualização e a remoção dessas notas, um CRUD. Também as rotas, rastreio e registro de notificações ao se mudar o status de algum chamado, bem como o algoritmo para envio por email ao usuário que emitiu chamado e os avaliadores.</p>
+
+2. **SMTP Brevo:**
+   - <p align="justify">Atividade: Configurações, autenticações e ajustes de parâmetros entre o código e o servidor SMTP, para um bom funcionamento no envio automático de emails.</p>
+
+3. **Aplicativo Mobile:**
+   - <p align="justify">Atividade: Aprendi o uso do deploy de projetos após o built de sua aplicação, uso de bando de dados em nuvem podendo implementar os conceitos fundamentais para uma aplicação real de um projeto, para além do ambiente de desenvolvimento local.</p>
+
+## Soft Skills
+
+1. **Proatividade:**
+   - <p align="justify">Atividade: Adotei uma abordagem proativa no meu papel, antecipando desafios e tomando medidas preventivas. Busquei oportunidades para aprimorar processos e eficiência, contribuindo para o progresso do projeto.</p>
+
+2. **Autonomia:**
+   - <p align="justify">Atividade: Demonstrei autonomia ao assumir responsabilidades e tomar decisões no decorrer do projeto, alguns erros seguido pelos acertos após ajustes. Busquei soluções independentes quando necessário, mostrando habilidade para liderar e conduzir atividades de forma autônoma.</p>
+
+3. **Colaboração:**
+   - <p align="justify">Atividade: Priorizei a colaboração eficaz dentro da equipe, compartilhando conhecimento e apoiando colegas quando necessário, visando objetivos comuns, promovendo um ambiente de trabalho harmonioso e produtivo.</p>
+
+4. **Entrega de Resultados:**
+   - <p align="justify">Atividade: Demonstrei um compromisso consistente com a entrega de resultados, focando na qualidade e na facilidade de entendimento do código. Assegurei que as tarefas fossem concluídas dentro do prazo previsto, contribuindo assim para o andamento de tarefas de outros integrantes da equipe que dependiam da minha tarefa.</p>
+
+## Considerações finais
+
+<p align="justify">Concluindo esta jornada, estou entusiasmado com as oportunidades futuras de aplicar e expandir meu conjunto de habilidades. Estou comprometido com a aprendizagem contínua e ansioso para enfrentar novos desafios. Compartilha uma visão de inovação e excelência? Estou pronto para contribuir de forma significativa.</p>
+
+<p align="justify">Obrigado por explorar meu portfólio! Se você tem interesse em discutir oportunidades de colaboração, trocar ideias ou simplesmente bater um papo sobre tecnologia, ficarei feliz em me conectar. Sinta-se à vontade para entrar em contato e quem sabe podemos construir algo significante juntos.</p>
