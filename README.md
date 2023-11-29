@@ -24,7 +24,6 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
 ## Conhecimentos
 
 <p align="justify">A formação técnica e graduação em engenharia me proporcionaram ótimos conhecimentos em exatas, estou buscando aproveitar essa base pra especializar numa área de desenvolvimento voltada para mineração e análise de dados, otimizar rotinas, e desenvolver softwares que facilitem o trabalho acadêmico, logístico e financeiro, setores que possuo experiência profissional mais recente. Pra isso meu foco hoje é desenvolver habilidades mais sólidas com banco de dados e linguagens Python e Typescript.</p>
-
 <br />
 
 ## Metodologia Ágil
@@ -41,10 +40,11 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
 
 <details>
  <summary><b>Exemplo de Cards</b></summary>
-   - ![Imagem dos Cards](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/storys%20cards.png)
-   <p align="center" style="font-size: smaller; color: gray;">Fonte: Próprio Autor (2021)</p>
+   <td alignt="center"><img src="https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/storys%20cards.png" alt=""/>
+   <p align="center" style="font-size: 10; color: green;">Fonte: Próprio Autor (2021)</p>
 </details>
-### Soft Skills em Metodologia Ágil
+
+### Algumas Soft Skills da Metodologia Ágil
 
 - **Colaboração:** Trabalho em equipe e comunicação aberta são essenciais.
 - **Adaptabilidade:** Capacidade de se ajustar rapidamente a mudanças de requisitos.
@@ -63,10 +63,9 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
 
 <details>
  <summary><b>Exemplo de Backlog</b></summary>
-   - ![Imagem do Backlog](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%204/backlog.png)
-   <p align="center" style="font-size: smaller; color: gray;">Fonte: Próprio Autor (2021)</p>
+   <td alignt="center"><img src="https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%204/backlog.png" alt=""/>
+   <p align="center" style="font-size: smaller; color: blue;">Fonte: Próprio Autor (2021)</p>
 </details>
-
 
 #### Burndown
 
@@ -74,7 +73,7 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
 
 <details>
  <summary><b>Exemplo de Burndown</b></summary>
-   - ![Imagem do Burndown](https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%204/burn%20project.png)
+   <td alignt="center"><img src="https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%204/burn%20project.png" alt=""/>
    <p align="center" style="font-size: smaller; color: gray;">Fonte: Próprio Autor (2021)</p>
 </details>
 
