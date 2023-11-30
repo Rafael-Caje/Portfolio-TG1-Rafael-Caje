@@ -40,11 +40,9 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
 
 <details>
  <summary><b>Exemplo de Cards</b></summary>
-   <p align="center">
+   <td alignt="center">
    <img src="https://github.com/cpusfatec/DashBoard-GSW/blob/main/SPRINT%203/storys%20cards.png" alt=""/>
-   </br>
-   <center><sub>Fonte: Próprio Autor (2021)</sub></center>
-   </p>
+   <sub>Fonte: Próprio Autor (2021)</sub>
 </details>
 
 ### Algumas Soft Skills da Metodologia Ágil
@@ -496,19 +494,22 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 
 
 ##### Requisitos operacionais e visuais
-- Campos intuitivos para preenchimento de chamados
-- Botões de abertura, edição, visualização e remoção
-- Mensagem de erro se houver campos não preenchidos
-- Estilização com paleta de cores da empresa
+- Campos intuitivos para cadastros (usuário, equipamento e manobras)
+- Cores que facilitem a visualização em ambiente aberto
+- Validação de campos preenchidos
 
 ##### Requisitos tecnicos
-- Login para autenticação de usuário com acesso apenas à abertura de chamado
-- Login de acesso a todas funções do aplicativo em caso de acesso ADM
-- Login de acesso a funções especiais para avaliar, arquivar ou desarquivar chamados
-- Cadastro de novos usuários se tiver acesso nível ADM
-- Ao cadastrar modelo, o aplicativo testa se a Tabela de parâmetros vinculada ao avião cadastrado possui todos os campos preenchidos, se não retorna erro
-- Notificações no APP e por email
-
+- Cadastro de usuários (somente administrador)
+- Edição de usuários (somente administrador)
+- Editar próprios dados
+- Ativação/desativação automática de equipamentos ao criar/conlcuir manobra
+- Login para uso operacional
+- Login ADM para acesso amplo
+- Banco de dados MongDB
+- Utilização de Mapas para cadastro e localização de equipamentos e manobras
+- Filtro de pesquisa de manobras (por nome, id e localização)
+- Notificações no APP
+- Recuperação de Senha por email e gerador de códigos
 <br />
 
 ## O Projeto
@@ -516,20 +517,27 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 <details>
  <summary><b>Demonstração do Sistema</b></summary>
  <br>
- Visualização das solicitações em Avaliação e Produção
-   <td alignt="center"><img src="https://github.com/meta-build/Projeto-IONIC-Health/assets/90328897/349da3ae-b7b8-4ff2-9e12-b8814ba20bae" alt=""/>
+ Autenticação ao Minimizar e Retornar ao APP
+   <td alignt="center"><img src="https://github.com/meta-build/field-crew-manager/assets/111146527/79bf5f0a-d7ef-42cc-927d-55b0e6825137" alt=""/>
    </td>
- Notificações para usuário solicitante
-   <td alignt="center"><img src="https://github.com/meta-build/Projeto-IONIC-Health/assets/90328897/eef94e7d-bad2-40b1-b4d4-5f01e1bc7048" alt=""/>
+ Localização de equipamentos e manobras no Mapa
+   <td alignt="center"><img src="https://github.com/meta-build/field-crew-manager/assets/111146527/1dde2b07-3eeb-4da9-be2d-0dd3def3306c" alt=""/>
    </td>
- Permissões customizadas na criação e edição do usuário
-   <td alignt="center"><img src="https://github.com/meta-build/Projeto-IONIC-Health/assets/90328897/cea6abef-7585-456e-a3b8-bc4787d1c679" alt=""/>
+ Filtro de distância máxima entre usuário e equipamento
+   <td alignt="center"><img src="https://github.com/meta-build/field-crew-manager/assets/111146527/68825c74-2b4b-47e1-ae31-712837326764" alt=""/>
+   </td>
+ Funcionalidade OFFLINE
+   <td alignt="center"><img src="https://github.com/meta-build/field-crew-manager/assets/111146527/2dd4e138-700d-4d9a-a99b-8b8d9a1451e7" alt=""/>
+   </td>
+ Primeiro LOGIN
+   <td alignt="center"><img src="https://github.com/meta-build/field-crew-manager/assets/111146527/d3b9ca77-35cb-4e4f-8bf5-5108cffd22d8" alt=""/>
    </td>
 </details>
 
 <details>
 <summary><b>Design responsivo</b></summary>
  <br>
+ Funcionalidade OFFLINE
    <td alignt="center"><img src="https://github.com/meta-build/Projeto-IONIC-Health/assets/90328897/abc54a63-1370-4486-9a63-1d03f0974f41" alt=""/>
    </td>
 </details>
