@@ -1,16 +1,17 @@
 # Portifólio das APIs - ADS - Rafael Pinto Cajé
+<a name="topo"></a>
 
 ## Índice
-- [Introdução](#introducao)
+- [Introdução](#introdução)
 - [Conhecimentos](#conhecimentos)
 - [Metodologia Ágil](#metodologia-ágil)
 - [Meus Projetos](#meus-projetos)
-- [CPU - 1º Semestre](#cpu---1--semestre)
-- [Dashboard GSW - 2º Semestre](#dashboard-gsw---2--semestre)
-- [Embraer OLD - 3º Semestre](#embraer-old---3--semestre)
-- [IONIC Deploy Manager - 4º Semestre](#ionic-deploy-manager---4--semestre)
-- [FCManager - 5º Semestre](#fcmanager---5--semestre)
-- [Considerações finais](#consideracoes-finais)
+- [CPU - 1º Semestre](#cpu---1º-semestre)
+- [Dashboard GSW - 2º Semestre](#dashboard-gsw---2º-semestre)
+- [Embraer OLD - 3º Semestre](#embraer-old---3º-semestre)
+- [IONIC Deploy Manager - 4º Semestre](#ionic-deploy-manager---4º-semestre)
+- [FCManager - 5º Semestre](#fcmanager---5º-semestre)
+- [Considerações finais](#considerações-finais)
 
 ## Introdução
 
@@ -107,6 +108,9 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
  
 <br />
 
+---
+
+[Voltar ao Topo](#topo)
 
 ## CPU - 1º Semestre
  
@@ -198,6 +202,8 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 4. **Trabalho em Equipe:**
    - <p align="justify">Atividade: Colaboração ativa em atividades da equipe, comunicação constante, compartilhamento de conhecimento e suporte aos colegas para alcançar metas coletivas.</p>
 
+[Voltar ao Topo](#topo)
+
 ---
 
 ## Dashboard GSW - 2º Semestre
@@ -272,6 +278,8 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 
 3. **Empatia:**
    - <p align="justify">Atividade: A empatia é fundamental para construir relacionamentos sólidos. Tentei entender as necessidades, preocupações e perspectivas de cada membro da equipe, cultivando um ambiente onde todos se sentissem valorizados. Isso não apenas fortaleceu as relações interpessoais, mas também contribuiu para uma colaboração mais eficaz e um clima de trabalho positivo.</p>
+
+[Voltar ao Topo](#topo)
 
 ---
 
@@ -378,6 +386,8 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 
 3. **Entrega de Resultados:**
    - <p align="justify">Atividade: Demonstrei um compromisso consistente com a entrega de resultados focando na qualidade e na facilidade de entendimento do código. Estabeleci metas claras, mantive um foco constante na eficácia e assegurei que as tarefas fossem concluídas tentando ao máximo respeitar o tempo previsto, contribuindo assim para o sucesso do projeto.</p>
+
+[Voltar ao Topo](#topo)
 
 ---
 
@@ -490,6 +500,8 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 
 3. **Empatia:**
    - <p align="justify">Atividade: Exerci empatia ao compreender as necessidades e perspectivas dos membros da equipe. Estabeleci um ambiente de trabalho colaborativo, onde as preocupações individuais foram reconhecidas e consideradas, fortalecendo os laços interpessoais e contribuindo para um clima positivo no projeto.</p>
+
+[Voltar ao Topo](#topo)
 
 ---
 
@@ -611,6 +623,10 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 
 4. **Entrega de Resultados:**
    - <p align="justify">Atividade: Demonstrei um compromisso consistente com a entrega de resultados, focando na qualidade e na facilidade de entendimento do código. Assegurei que as tarefas fossem concluídas dentro do prazo previsto, contribuindo assim para o andamento de tarefas de outros integrantes da equipe que dependiam da minha tarefa.</p>
+
+[Voltar ao Topo](#topo)
+
+---
 
 ## Considerações finais
 
