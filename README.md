@@ -1,5 +1,18 @@
 # Portifólio das APIs - ADS - Rafael Pinto Cajé
 
+## Índice
+- [Portifólio das APIs - ADS - Rafael Pinto Cajé](#portif-lio-das-apis---ads---rafael-pinto-caj-)
+  * [Introdução](#introdu--o)
+  * [Conhecimentos](#conhecimentos)
+  * [Metodologia Ágil](#metodologia--gil)
+  * [Meus Projetos](#meus-projetos)
+  * [CPU - 1º Semestre](#cpu---1--semestre)
+  * [Dashboard GSW - 2º Semestre](#dashboard-gsw---2--semestre)
+  * [Embraer OLD - 3º Semestre](#embraer-old---3--semestre)
+  * [IONIC Deploy Manager - 4º Semestre](#ionic-deploy-manager---4--semestre)
+  * [FCManager - 5º Semestre](#fcmanager---5--semestre)
+  * [Considerações finais](#considera--es-finais)
+
 ## Introdução
 
 <br />
@@ -532,7 +545,7 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
    <td alignt="center"><img src="https://github.com/meta-build/field-crew-manager/assets/111146527/68825c74-2b4b-47e1-ae31-712837326764" alt=""/>
    </td>
    <br>
- Funcionalidade OFFLINE
+ Funcionalidade OFFLINE (Fila de serviços aguardando reconectar)
  <br>
    <td alignt="center"><img src="https://github.com/meta-build/field-crew-manager/assets/111146527/2dd4e138-700d-4d9a-a99b-8b8d9a1451e7" alt=""/>
    </td>
@@ -576,7 +589,7 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 
 ### Contribuições Adicionais
 
-<p align="justify">Sempre estivemos em atualização com as dailys em nosso grupo de trabalho pra saber o que cada integrante da equipe estava desenvolvendo, criamos uma padrão de atualização de nosso repositório através de branch, pra evitar riscos de códigos serem remontados e se perder trabalhos feitos, assim conseguimos reduzir bastante o retrabalho do nosso código.</p>
+<p align="justify">Sempre estivemos em atualização com as dailys em nosso grupo de trabalho pra saber o que cada integrante da equipe estava desenvolvendo, criamos um padrão de atualização de nosso repositório através de branch, pra evitar riscos de códigos serem remontados e se perder trabalhos feitos, assim conseguimos reduzir bastante o retrabalho do nosso código.</p>
 
 ## Hard Skills
 
