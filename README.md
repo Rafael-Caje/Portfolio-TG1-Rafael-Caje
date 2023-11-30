@@ -1,17 +1,16 @@
 # Portifólio das APIs - ADS - Rafael Pinto Cajé
 
 ## Índice
-- [Portifólio das APIs - ADS - Rafael Pinto Cajé](#portif-lio-das-apis---ads---rafael-pinto-caj-)
-  * [Introdução](#introdu--o)
-  * [Conhecimentos](#conhecimentos)
-  * [Metodologia Ágil](#metodologia--gil)
-  * [Meus Projetos](#meus-projetos)
-  * [CPU - 1º Semestre](#cpu---1--semestre)
-  * [Dashboard GSW - 2º Semestre](#dashboard-gsw---2--semestre)
-  * [Embraer OLD - 3º Semestre](#embraer-old---3--semestre)
-  * [IONIC Deploy Manager - 4º Semestre](#ionic-deploy-manager---4--semestre)
-  * [FCManager - 5º Semestre](#fcmanager---5--semestre)
-  * [Considerações finais](#considera--es-finais)
+- [Introdução](#introducao)
+- [Conhecimentos](#conhecimentos)
+- [Metodologia Ágil](#metodologia-agil)
+- [Meus Projetos](#meus-projetos)
+- [CPU - 1º Semestre](#cpu---1--semestre)
+- [Dashboard GSW - 2º Semestre](#dashboard-gsw---2--semestre)
+- [Embraer OLD - 3º Semestre](#embraer-old---3--semestre)
+- [IONIC Deploy Manager - 4º Semestre](#ionic-deploy-manager---4--semestre)
+- [FCManager - 5º Semestre](#fcmanager---5--semestre)
+- [Considerações finais](#consideracoes-finais)
 
 ## Introdução
 
