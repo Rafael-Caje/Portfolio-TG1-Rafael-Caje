@@ -3,7 +3,7 @@
 ## Índice
 - [Introdução](#introducao)
 - [Conhecimentos](#conhecimentos)
-- [Metodologia Ágil](#metodologia-agil)
+- [Metodologia Ágil](#metodologia-ágil)
 - [Meus Projetos](#meus-projetos)
 - [CPU - 1º Semestre](#cpu---1--semestre)
 - [Dashboard GSW - 2º Semestre](#dashboard-gsw---2--semestre)
