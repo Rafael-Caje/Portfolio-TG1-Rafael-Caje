@@ -630,7 +630,7 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 
 ## Considerações finais
 
-<p align="justify">Agradecimento aos colegas da equipe [Meta Builders](https://github.com/meta-build) por me proporcionarem um ambiente excelente de trabalho em equipe, onde pude desenvolver habilidades tecnicas e aplicar conforme a área que melhor pude gerar resultados. Também meu agradecimento aos professores da FATEC Prof. Jessen Vidal, pelos ensinamentos e suporte didático, de forma que sempre foi possível encontrar uma solução para as dificuldades no decorrer das APIs.</p>
+<p align="justify">Agradecimento aos colegas da equipe <a href="https://github.com/meta-build">Meta Builders</a> por me proporcionarem um ambiente excelente de trabalho em equipe, onde pude desenvolver habilidades tecnicas e aplicar conforme a área que melhor pude gerar resultados. Também meu agradecimento aos professores da FATEC Prof. Jessen Vidal, pelos ensinamentos e suporte didático, de forma que sempre foi possível encontrar uma solução para as dificuldades no decorrer das APIs.</p>
 
 <p align="justify">Concluindo esta jornada, estou entusiasmado com as oportunidades futuras de aplicar e expandir meu conjunto de habilidades. Estou comprometido com a aprendizagem contínua e ansioso para enfrentar novos desafios. Compartilha uma visão de inovação e excelência? Estou pronto para contribuir de forma significativa.</p>
 
