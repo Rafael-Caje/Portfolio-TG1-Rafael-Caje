@@ -415,7 +415,7 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
    <td alignt="center"><img src="https://github.com/meta-build/Projeto-IONIC-Health/assets/90328897/abc54a63-1370-4486-9a63-1d03f0974f41" alt=""/>
    </td>
 </details>
-<br />
+<br/>
 
 ### Tecnologia do Produto
 Backend: MySQL, TypeScript e Docker | Frontend: HTML5 e CSS3 | Deploy: Render
@@ -518,30 +518,28 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
  <summary><b>Demonstração do Sistema</b></summary>
  <br>
  Autenticação ao Minimizar e Retornar ao APP
+ <br>
    <td alignt="center"><img src="https://github.com/meta-build/field-crew-manager/assets/111146527/79bf5f0a-d7ef-42cc-927d-55b0e6825137" alt=""/>
    </td>
  Localização de equipamentos e manobras no Mapa
+ <br>
    <td alignt="center"><img src="https://github.com/meta-build/field-crew-manager/assets/111146527/1dde2b07-3eeb-4da9-be2d-0dd3def3306c" alt=""/>
    </td>
  Filtro de distância máxima entre usuário e equipamento
+ <br>
    <td alignt="center"><img src="https://github.com/meta-build/field-crew-manager/assets/111146527/68825c74-2b4b-47e1-ae31-712837326764" alt=""/>
    </td>
  Funcionalidade OFFLINE
+ <br>
    <td alignt="center"><img src="https://github.com/meta-build/field-crew-manager/assets/111146527/2dd4e138-700d-4d9a-a99b-8b8d9a1451e7" alt=""/>
    </td>
  Primeiro LOGIN
+ <br>
    <td alignt="center"><img src="https://github.com/meta-build/field-crew-manager/assets/111146527/d3b9ca77-35cb-4e4f-8bf5-5108cffd22d8" alt=""/>
    </td>
 </details>
 
-<details>
-<summary><b>Design responsivo</b></summary>
- <br>
- Funcionalidade OFFLINE
-   <td alignt="center"><img src="https://github.com/meta-build/Projeto-IONIC-Health/assets/90328897/abc54a63-1370-4486-9a63-1d03f0974f41" alt=""/>
-   </td>
-</details>
-<br />
+<br/>
 
 ### Tecnologia do Produto
 Backend: MySQL, TypeScript e Docker | Frontend: HTML5 e CSS3 | Deploy: Render
