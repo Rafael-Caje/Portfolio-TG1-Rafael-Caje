@@ -515,41 +515,43 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 ## O Projeto
 
 <details>
- <summary><b>Demonstração do Sistema</b></summary>
+ <summary><b>Demonstração do APP</b></summary>
  <br>
  Autenticação ao Minimizar e Retornar ao APP
  <br>
    <td alignt="center"><img src="https://github.com/meta-build/field-crew-manager/assets/111146527/79bf5f0a-d7ef-42cc-927d-55b0e6825137" alt=""/>
    </td>
+   <br>
  Localização de equipamentos e manobras no Mapa
  <br>
    <td alignt="center"><img src="https://github.com/meta-build/field-crew-manager/assets/111146527/1dde2b07-3eeb-4da9-be2d-0dd3def3306c" alt=""/>
    </td>
+   <br>
  Filtro de distância máxima entre usuário e equipamento
  <br>
    <td alignt="center"><img src="https://github.com/meta-build/field-crew-manager/assets/111146527/68825c74-2b4b-47e1-ae31-712837326764" alt=""/>
    </td>
+   <br>
  Funcionalidade OFFLINE
  <br>
    <td alignt="center"><img src="https://github.com/meta-build/field-crew-manager/assets/111146527/2dd4e138-700d-4d9a-a99b-8b8d9a1451e7" alt=""/>
    </td>
+   <br>
  Primeiro LOGIN
  <br>
    <td alignt="center"><img src="https://github.com/meta-build/field-crew-manager/assets/111146527/d3b9ca77-35cb-4e4f-8bf5-5108cffd22d8" alt=""/>
    </td>
+   <br>
 </details>
 
 <br/>
 
 ### Tecnologia do Produto
-Backend: MySQL, TypeScript e Docker | Frontend: HTML5 e CSS3 | Deploy: Render
+Backend: MongoDB, TypeScript | Frontend: React Native
 ```
-MySQL - Conversão e armazenamento de dados unificados no banco de dados, garantindo eficiência e integridade.
+MongoDB - Armazenamento de dados unificados no banco de dados, garantindo eficiência e integridade.
 TypeScript - Desenvolvimento principal do backend, comunicação com banco de dados, interface com frontend e ativação da API para funcionamento.
-Docker - Utilização do Docker para testes, proporcionando um ambiente de desenvolvimento consistente e fácil reprodução do ambiente em diferentes máquinas.
-HTML5 - Responsável pelo layout da experiência do usuário (UI), garantindo uma apresentação clara e acessível dos dados e funcionalidades. Aplicação das últimas práticas e recursos do HTML5 para aprimorar a interatividade.
-CSS3 - Estilização do frontend para proporcionar uma experiência visual atraente e coesa aos usuários. Implementação de técnicas avançadas do CSS3 para garantir responsividade e um design moderno e intuitivo.
-RENDER - Plataforma utilizada para renderizar o projeto web, fazer o DEPLOY, garantindo a visualização e interação adequadas.
+React Native - Responsável pela construção das interfaces mobile, proporcionando uma experiência intuitiva e eficiente para o usuário.
 ```
 ### Ferramentas
 ##### Desenvolvimento do Site
