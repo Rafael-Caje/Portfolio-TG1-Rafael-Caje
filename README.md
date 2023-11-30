@@ -550,8 +550,8 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 Backend: MongoDB, TypeScript | Frontend: React Native
 ```
 MongoDB - Armazenamento de dados unificados no banco de dados, garantindo eficiência e integridade.
-TypeScript - Desenvolvimento principal do backend, comunicação com banco de dados, interface com frontend e ativação da API para funcionamento.
-React Native - Responsável pela construção das interfaces mobile, proporcionando uma experiência intuitiva e eficiente para o usuário.
+TypeScript - Desenvolvimento principal do backend, comunicação com banco de dados, interface com frontend e emulação da API para demonstração de suas funcionalidades.
+React Native - Tecnologia usada para construção das interfaces mobile, proporcionando uma experiência intuitiva e eficiente para o usuário.
 ```
 ### Ferramentas
 ##### Desenvolvimento do Site
@@ -561,38 +561,30 @@ Template: [Figma](https://www.figma.com) | Desenvolvimento: [Visual Studio](http
 Editor e Montagem de imagem: [Polish](https://play.google.com/store/apps/details?id=photo.editor.photoeditor.photoeditorpro&hl=pt_BR&gl=US) | Remover fundos: [Background Eraser](https://play.google.com/store/apps/details?id=com.handycloset.android.eraser&hl=en_US&gl=US)
 
 ##### Organização e controle
-Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/) | Documentação: [EXCEL 2013](https://www.microsoft.com/pt-br/microsoft-365/previous-versions/microsoft-excel-2013)
+Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/) | Documentação: [EXCEL 2013](https://www.microsoft.com/pt-br/microsoft-365/previous-versions/microsoft-excel-2013) e [Trello](https://trello.com/pt-BR)
 
 
 ## Contribuições Pessoais
 
+<p align="justify">No projeto FCManager integrei o time de desenvolvedores, e embora minhas atividades fossem 100% componentes do backend, me mantive atualizado com o responsável pelo frontend pra entender um pouco da aplicação do React Native, uma tecnologia nova aprendida neste semestre. Não difere muito do react mas possuem configurações e parâmetros próprios em que se requer prática para aprendizado. Fiz a instalação das aplicações para trabalhar com essa tecnologia e também algumas emulações de aplicativos para poder ajudar atividades de minha equipe se fosse necessário.</p>
 
-<p align="justify">Durante o projeto IONIC Deploy Manager, assumi novamente o papel de desenvolvedor, aplicando minhas habilidades em backend TypeScript, após estudos adquiridos em sala de aula e pesquisas. Pude desenvolver mais o conhecimento tecnico da linguagem.</p>
+### Desenvolvimento de Back-End
 
-### Desenvolvimento de Back-End para Análise de Pista de Pouso
+<p align="justify">Desempenhei o papel de desenvolvedor de componentes cruciais no projeto, como o CRUD das manobras, e funcionalidades de filtragem e paginação. O componente mais interessante que criei foi o de filtragem através da localização do equipamento/manobra, em que se pode editar a latitude, a longitude e o raio que deseja pesquisar, e o filtro irá retornar todos os cadastros naquele raio de cobertura no mapa.</p>
 
-<p align="justify">Fui responsável por desenvolver partes do código backend em Typescript, as lógicas avançadas para cadastrar e registrar as avaliações, estudei e implementei diversos componentes. Destaco a inserção de notas nos chamados, a refatoração dos códigos existentes, a criação das notificações a cada nova etapa de um chamado aberto e o disparo de e-mails automáticos utilizando a interface com o serviço SMTP da Brevo.</p>
-
-<p align="justify">O backend foi cuidadosamente projetado para receber parâmetros do frontend em TypeScript, permitindo uma comunicação eficiente entre as camadas. A análise e validação desses parâmetros era fundamental para o registro de dados e funcionamento.</p>
+<p align="justify">Para finalizar o API, desenvolvi ainda uma funcionalidade de envio de email com código aleatório para recuperação de senha, caso usuário esqueça sua senha. Esse envio de email desenvolvi em typescript configurando serviço de autenticação do sevridor SMTP da Brevo.</p>
 
 ### Contribuições Adicionais
 
-<p align="justify">Como um trabalho não se faz apenas com conhecimento tecnico, mas boa organização, mantive uma comunicação constante com os integrantes dos grupos, garantindo que o meu código não entrasse em conflito ao ser enviado para a branch do projeto no GitHub.</p>
-
-<p align="justify">Essa experiência enriquecedora expandiu significativamente meu conjunto de habilidades técnicas, proporcionando-me uma compreensão mais profunda da interação entre diferentes camadas de uma aplicação e a importância de uma comunicação eficaz entre elas.</p>
-
-<p align="justify">O projeto IONIC Deploy Manager atingiu novamente minhas expectativas de aprendizado, me forçando a busca de novos conhecimento e me desafiando descobrir meus próprios limites, explorando ao máximo minha capacidade de aprender e também ensinar, atuando em conjunto com minha equipe.</p>
+<p align="justify">Sempre estivemos em atualização com as dailys em nosso grupo de trabalho pra saber o que cada integrante da equipe estava desenvolvendo, criamos uma padrão de atualização de nosso repositório através de branch, pra evitar riscos de códigos serem remontados e se perder trabalhos feitos, assim conseguimos reduzir bastante o retrabalho do nosso código.</p>
 
 ## Hard Skills
 
-1. **Componentes, boas práticas e refatoração (TypeScript):**
-   - <p align="justify">Atividade: No backend, utilizei TypeScript para desenvolver os componentes ligados a recepção dos dados do frontend, no caso as notas de avaliação, o registro dessas notas no banco de dados MySQL, a atualização e a remoção dessas notas, um CRUD. Também as rotas, rastreio e registro de notificações ao se mudar o status de algum chamado, bem como o algoritmo para envio por email ao usuário que emitiu chamado e os avaliadores.</p>
+1. **Novas funções do Typescipt e serviço SMTP Brevo:**
+   - <p align="justify">Atividade: Utilização prática de novos módulos como dotenv, nodemailer, express e mongoose, para atender as exigências do projeto, entendendo como funciona o serviço de banco de dados MongoDB, quais impedimentos na comunicação entre máquina e servidor ao usar um serviço SMTP, uma forma de desenvolvimento linear para não gerar quebras no código entre validações, gerando o menor consumo de tempo e memória da máquina. Além desse trabalho, precisei pesquisar e relembrar sobre sistemas de coordenadas (latitude e longitude), e as fórmulas de conversões de medidas para efetuar filtros baseado em quilometragem.</p>
 
-2. **SMTP Brevo:**
-   - <p align="justify">Atividade: Configurações, autenticações e ajustes de parâmetros entre o código e o servidor SMTP, para um bom funcionamento no envio automático de emails.</p>
-
-3. **Aplicativo Mobile:**
-   - <p align="justify">Atividade: Aprendi o uso do deploy de projetos após o built de sua aplicação, uso de bando de dados em nuvem podendo implementar os conceitos fundamentais para uma aplicação real de um projeto, para além do ambiente de desenvolvimento local.</p>
+2. **Aplicativo Mobile (React Native):**
+   - <p align="justify">Atividade: Instalação do React Native, serviço de emulação usando software development kit (ANDROID SDK) do google para disposivido android das versões de 4.4 até 10.3 (escolha minha, é possível escolher mais versões), Máquina Virtual JAVA 1.8 ou acima, e configurações para ambiente de desenvolvimento mobile finalizadas e funcionais, podendo emular seu APP em desenvolvimento no Micro ou no próprio dispositivo mobile conectado via USB após ativar as funcionalidades de desenvolvedor no celular. Esse projeto foi uma experiência de trabalho real e muito profissionalizante.</p>
 
 ## Soft Skills
 
@@ -609,6 +601,8 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
    - <p align="justify">Atividade: Demonstrei um compromisso consistente com a entrega de resultados, focando na qualidade e na facilidade de entendimento do código. Assegurei que as tarefas fossem concluídas dentro do prazo previsto, contribuindo assim para o andamento de tarefas de outros integrantes da equipe que dependiam da minha tarefa.</p>
 
 ## Considerações finais
+
+<p align="justify">Agradecimento aos colegas da equipe [Meta Builders](https://github.com/meta-build) por me proporcionarem um ambiente excelente de trabalho em equipe, onde pude desenvolver habilidades tecnicas e aplicar conforme a área que melhor pude gerar resultados. Também meu agradecimento aos professores da FATEC Prof. Jessen Vidal, pelos ensinamentos e suporte didático, de forma que sempre foi possível encontrar uma solução para as dificuldades no decorrer das APIs.</p>
 
 <p align="justify">Concluindo esta jornada, estou entusiasmado com as oportunidades futuras de aplicar e expandir meu conjunto de habilidades. Estou comprometido com a aprendizagem contínua e ansioso para enfrentar novos desafios. Compartilha uma visão de inovação e excelência? Estou pronto para contribuir de forma significativa.</p>
 
