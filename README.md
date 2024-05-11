@@ -7,6 +7,9 @@
 - [Metodologia Ágil](#metodologia-ágil)
 - [Meus Projetos](#meus-projetos)
 - [CPU - 1º Semestre](#cpu---1º-semestre)
+- [Dashboard GSW - 2º Semestre](#dashboard-gsw---2º-semestre)
+- [Embraer OLD - 3º Semestre](#embraer-old---3º-semestre)
+- [IONIC Deploy Manager - 4º Semestre](#ionic-deploy-manager---4º-semestre)
 
 ## Introdução
 
