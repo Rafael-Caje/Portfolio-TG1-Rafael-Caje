@@ -177,37 +177,37 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
    - <p align="justify">Atividade: Contribuição no desenvolvimento web, utilizando PHP para o backend/frontend e HTML/CSS para o frontend. Implementação de funcionalidades e melhoria da experiência do usuário.</p>
 
 2. **Versionamento GIT:**
-   - <p align="justify">Atividade: Gerenciamento de código-fonte usando Git para controle de versão. Colaboração eficaz na equipe de desenvolvimento, controle de branches e resolução de conflitos de arquivos.</p>
+   - <p align="justify">Atividade: Gerenciamento de código-fonte usando Git para controle de versão. Colaboração eficaz na equipe de desenvolvimento, controle de branches e análise de conflitos de arquivos para efetuar a merge.</p>
 
 ## Nível de Proficiência - Hard Skills
 
 | Habilidade                      | Nível de Proficiência |
 |---------------------------------|-----------------------|
-| Desenvolvimento WEB             | [x][x][x][x][x][ ][ ][ ][ ][ ] |
-| Versionamento GIT               | [x][x][x][x][x][ ][ ][ ][ ][ ] |
+| Desenvolvimento WEB             | ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜ |
+| Versionamento GIT               | ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ |
 
 ## Soft Skills
 
 1. **Liderança:**
-   - <p align="justify">Atividade: Coordenei esforços da equipe, estabeleci metas e foquei em motivar membros para alcançar objetivos comuns.</p>
+   - <p align="justify">Atividade: Coordenei esforços da equipe, estabeleci metas para a entrega das atividades e foquei em motivar membros para alcançar objetivos comuns, como quando acompanhei um dev em uma semana que ele ficou afastado.</p>
 
 2. **Flexibilidade:**
-   - <p align="justify">Atividade: Adaptação a mudanças nos requisitos de projetos, assimilação de novas tecnologias e abordagens, demonstrando capacidade de se ajustar a diferentes situações.</p>
+   - <p align="justify">Atividade: Adaptação a mudanças nos requisitos de projetos, assimilação de novas tecnologias e abordagens, tive que me reunir com o dev pra aprender um pouco sobre programar PHP, no semestre estávamos estudando apenas linguagem C e python.</p>
 
 3. **Organização:**
-   - <p align="justify">Atividade: Gerenciamento de tarefas acadêmicas, cumprimento de prazos, organização de recursos e informações para garantir um fluxo de trabalho eficaz.</p>
+   - <p align="justify">Atividade: Gerenciamento de tarefas acadêmicas, cumprimento de prazos, organização de recursos e informações para garantir um fluxo de trabalho eficaz, usamos o Planner da Microsoft e o Discord pra manter as tasks em dia com reunião e dailys, com EasyBacklog foi possível deixar as sprints bem fácil de entender por ser intuitivo.</p>
 
 4. **Trabalho em Equipe:**
-   - <p align="justify">Atividade: Colaboração ativa em atividades da equipe, comunicação constante, compartilhamento de conhecimento e suporte aos colegas para alcançar metas coletivas.</p>
+   - <p align="justify">Atividade: Colaboração ativa em atividades da equipe, comunicação constante, compartilhamento de conhecimento e suporte aos colegas para alcançar metas coletivas. Cada um pode executar sua tarefa e consegui ajudar na elaboração da documentação, em contato constante com o responsável, criação do vídeo de apresentação após captar as ideias da equipe pra trazer o maior valor do que foi desenvolvido em cada etapa.</p>
 
 ## Nível de Proficiência - Soft Skills
 
 | Habilidade            | Nível de Proficiência |
 |-----------------------|-----------------------|
-| Liderança             | [x][x][x][x][x][ ][ ][ ][ ][ ] |
-| Flexibilidade         | [x][x][x][x][x][ ][ ][ ][ ][ ] |
-| Organização           | [x][x][x][x][x][ ][ ][ ][ ][ ] |
-| Trabalho em Equipe    | [x][x][x][x][x][ ][ ][ ][ ][ ] |
+| Liderança             | ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ |
+| Flexibilidade         | ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ |
+| Organização           | ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ |
+| Trabalho em Equipe    | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜ |
 
 [Voltar ao Topo](#topo)
 
