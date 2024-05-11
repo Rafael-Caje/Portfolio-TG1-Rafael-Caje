@@ -98,6 +98,9 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
  |   Projeto  |  Período  |    Empresa Parceira    |
  | :---   | :---    | :---      |
  | [1º SEM](https://github.com/cpusfatec/cpusfatec)  | 2020 - 2º Semestre  | Cliente Interno |
+ | [2º SEM](https://github.com/cpusfatec/DashBoard)  | 2021 - 1º Semestre  | GSW |
+ | [3º SEM](https://github.com/meta-build/Projeto-Embraer)  | 2022 - 2º Semestre  | Embraer |
+ | [4º SEM](https://github.com/meta-build/Projeto-IONIC-Health)  | 2023 - 1º Semestre  | IonicHealth |
 
  
 <br />
