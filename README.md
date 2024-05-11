@@ -179,6 +179,13 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 2. **Versionamento GIT:**
    - <p align="justify">Atividade: Gerenciamento de código-fonte usando Git para controle de versão. Colaboração eficaz na equipe de desenvolvimento, controle de branches e resolução de conflitos de arquivos.</p>
 
+## Nível de Proficiência - Hard Skills
+
+| Habilidade                      | Nível de Proficiência |
+|---------------------------------|-----------------------|
+| Desenvolvimento WEB             | [x][x][x][x][x][ ][ ][ ][ ][ ] |
+| Versionamento GIT               | [x][x][x][x][x][ ][ ][ ][ ][ ] |
+
 ## Soft Skills
 
 1. **Liderança:**
@@ -192,6 +199,15 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 
 4. **Trabalho em Equipe:**
    - <p align="justify">Atividade: Colaboração ativa em atividades da equipe, comunicação constante, compartilhamento de conhecimento e suporte aos colegas para alcançar metas coletivas.</p>
+
+## Nível de Proficiência - Soft Skills
+
+| Habilidade            | Nível de Proficiência |
+|-----------------------|-----------------------|
+| Liderança             | [x][x][x][x][x][ ][ ][ ][ ][ ] |
+| Flexibilidade         | [x][x][x][x][x][ ][ ][ ][ ][ ] |
+| Organização           | [x][x][x][x][x][ ][ ][ ][ ][ ] |
+| Trabalho em Equipe    | [x][x][x][x][x][ ][ ][ ][ ][ ] |
 
 [Voltar ao Topo](#topo)
 
