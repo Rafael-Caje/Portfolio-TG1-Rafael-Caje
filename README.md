@@ -34,7 +34,24 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
 
 ## Conhecimentos
 
-<p align="justify">A formação técnica e graduação em engenharia me proporcionaram ótimos conhecimentos em exatas, estou buscando aproveitar essa base pra especializar numa área de desenvolvimento voltada para mineração e análise de dados, otimizar rotinas, e desenvolver softwares que facilitem o trabalho acadêmico, logístico e financeiro, setores que possuo experiência profissional mais recente. Pra isso meu foco hoje é desenvolver habilidades mais sólidas com banco de dados e linguagens Python e Typescript.</p>
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Azure MySQL](https://img.shields.io/badge/Azure%20MySQL-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/en-us/services/mysql/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Gitpod](https://img.shields.io/badge/Gitpod-1D69E2?style=for-the-badge&logo=gitpod&logoColor=white)](https://www.gitpod.io/)
+[![Render](https://img.shields.io/badge/Render-333?style=for-the-badge)](https://render.com/)
+<br />
+<p align="justify">A formação técnica e graduação em engenharia me proporcionaram ótimos conhecimentos em exatas, estou buscando aproveitar essa base pra especializar numa área de desenvolvimento voltada para mineração e análise de dados, otimizar rotinas, e desenvolver softwares que facilitem o trabalho acadêmico, logístico e financeiro, setores que possuo experiência profissional mais recente. Para isso meu foco hoje é desenvolver habilidades mais sólidas em Bancos de Dados Relacionais ou NoSQL e linguagens como Python ou Typescript</p>
 <br />
 
 ## Metodologia Ágil
