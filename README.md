@@ -555,9 +555,9 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 
 | Habilidade                                  | Nível de Proficiência          |
 |---------------------------------------------|--------------------------------|
-| Desenvolvimento Backend                     | ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜                      |
-| Configuração e Integração com SMTP         | ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜                      |
-| Deploy e Gerenciamento de Banco de Dados    | ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜                      |
+| Desenvolvimento Backend                     | ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ |
+| Configuração e Integração com SMTP         | ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ |
+| Deploy e Gerenciamento de Banco de Dados    | ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜ |
 
 ## Soft Skills
 
@@ -574,11 +574,154 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 
 | Habilidade  | Nível de Proficiência          |
 |-------------|--------------------------------|
-| Flexibilidade | ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜                      |
-| Organização | ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜                      |
-| Empatia     | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜                      |
+| Flexibilidade | ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ |
+| Organização | ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ |
+| Empatia     | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜ |
 
 
 [Voltar ao Topo](#topo)
 
 ---
+
+## FCManager - 5º Semestre
+ 
+> [Repositório do Projeto](https://github.com/meta-build/field-crew-manager)
+<p align="center"><img src="https://github.com/Rafael-Caje/Portifolio-TG1-Rafael-Caje/blob/main/image/capa5.png" widht="20%"></img>
+
+<p align="justify">O FCManager, desenvolvido para a empresa Imagem Geosistemas, é um aplicativo de campo voltado para o gerenciamento eficiente de equipamentos durante operações de conserto e manobras. Na construção desse projeto, adotamos React Native para as interfaces, Typescript para o servidor API, e MongoDB para o armazenamento de dados. A abordagem ágil do SCRUM foi fundamental para organizar e gerenciar o desenvolvimento.</p>
+
+<p align="justify">O propósito principal do FCManager é aprimorar a administração de equipamentos utilizados em campo, otimizando o acompanhamento de consertos e manobras realizadas por funcionários de diversas áreas. O sistema permite uma gestão abrangente de equipamentos, operações e usuários cadastrados.</p>
+
+<p align="justify">Nesse projeto, buscamos garantir eficiência e integridade nos registros, contribuindo para a confiabilidade das informações. A metodologia ágil SCRUM foi essencial para a organização do projeto, permitindo entregas incrementais e ajustes contínuos com base no feedback, resultando em um produto final alinhado com as necessidades da Imagem Geosistemas.</p>
+
+
+##### Requisitos operacionais e visuais
+- Campos intuitivos para cadastros (usuário, equipamento e manobras)
+- Cores que facilitem a visualização em ambiente aberto
+- Validação de campos preenchidos
+
+##### Requisitos tecnicos
+- Cadastro de usuários (somente administrador)
+- Edição de usuários (somente administrador)
+- Editar próprios dados
+- Ativação/desativação automática de equipamentos ao criar/conlcuir manobra
+- Login para uso operacional
+- Login ADM para acesso amplo
+- Banco de dados MongDB
+- Utilização de Mapas para cadastro e localização de equipamentos e manobras
+- Filtro de pesquisa de manobras (por nome, id e localização)
+- Notificações no APP
+- Recuperação de Senha por email e gerador de códigos
+<br />
+
+## O Projeto
+
+<details>
+ <summary><b>Demonstração do APP</b></summary>
+ <br>
+ Autenticação ao Minimizar e Retornar ao APP
+ <br>
+   <td alignt="center"><img src="https://github.com/meta-build/field-crew-manager/assets/111146527/79bf5f0a-d7ef-42cc-927d-55b0e6825137" alt=""/>
+   </td>
+   <br>
+ Localização de equipamentos e manobras no Mapa
+ <br>
+   <td alignt="center"><img src="https://github.com/meta-build/field-crew-manager/assets/111146527/1dde2b07-3eeb-4da9-be2d-0dd3def3306c" alt=""/>
+   </td>
+   <br>
+ Filtro de distância máxima entre usuário e equipamento
+ <br>
+   <td alignt="center"><img src="https://github.com/meta-build/field-crew-manager/assets/111146527/68825c74-2b4b-47e1-ae31-712837326764" alt=""/>
+   </td>
+   <br>
+ Funcionalidade OFFLINE (Fila de serviços aguardando reconectar)
+ <br>
+   <td alignt="center"><img src="https://github.com/meta-build/field-crew-manager/assets/111146527/2dd4e138-700d-4d9a-a99b-8b8d9a1451e7" alt=""/>
+   </td>
+   <br>
+ Primeiro LOGIN
+ <br>
+   <td alignt="center"><img src="https://github.com/meta-build/field-crew-manager/assets/111146527/d3b9ca77-35cb-4e4f-8bf5-5108cffd22d8" alt=""/>
+   </td>
+   <br>
+</details>
+
+<br/>
+
+### Tecnologia do Produto
+Backend: MongoDB, TypeScript | Frontend: React Native
+```
+MongoDB - Armazenamento de dados unificados no banco de dados, garantindo eficiência e integridade.
+TypeScript - Desenvolvimento principal do backend, comunicação com banco de dados, interface com frontend e emulação da API para demonstração de suas funcionalidades.
+React Native - Tecnologia usada para construção das interfaces mobile, proporcionando uma experiência intuitiva e eficiente para o usuário.
+```
+### Ferramentas
+##### Desenvolvimento do Site
+Template: [Figma](https://www.figma.com) | Desenvolvimento: [Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/) | 
+
+##### Edição de Imagem
+Editor e Montagem de imagem: [Polish](https://play.google.com/store/apps/details?id=photo.editor.photoeditor.photoeditorpro&hl=pt_BR&gl=US) | Remover fundos: [Background Eraser](https://play.google.com/store/apps/details?id=com.handycloset.android.eraser&hl=en_US&gl=US)
+
+##### Organização e controle
+Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/) | Documentação: [EXCEL 2013](https://www.microsoft.com/pt-br/microsoft-365/previous-versions/microsoft-excel-2013) e [Trello](https://trello.com/pt-BR)
+
+
+## Contribuições Pessoais
+
+<p align="justify">No projeto FCManager integrei o time de desenvolvedores, e embora minhas atividades fossem 100% componentes do backend, me mantive atualizado com o responsável pelo frontend pra entender um pouco da aplicação do React Native, uma tecnologia nova aprendida neste semestre. Não difere muito do react mas possuem configurações e parâmetros próprios em que se requer prática para aprendizado. Fiz a instalação das aplicações para trabalhar com essa tecnologia e também algumas emulações de aplicativos para poder ajudar atividades de minha equipe se fosse necessário.</p>
+
+### Desenvolvimento de Back-End
+
+<p align="justify">Desempenhei o papel de desenvolvedor de componentes cruciais no projeto, como o CRUD das manobras, e funcionalidades de filtragem e paginação. O componente mais interessante que criei foi o de filtragem através da localização do equipamento/manobra, em que se pode editar a latitude, a longitude e o raio que deseja pesquisar, e o filtro irá retornar todos os cadastros naquele raio de cobertura no mapa.</p>
+
+<p align="justify">Para finalizar o API, desenvolvi ainda uma funcionalidade de envio de email com código aleatório para recuperação de senha, caso usuário esqueça sua senha. Esse envio de email desenvolvi em typescript configurando serviço de autenticação do sevridor SMTP da Brevo.</p>
+
+### Contribuições Adicionais
+
+<p align="justify">Sempre estivemos em atualização com as dailys em nosso grupo de trabalho pra saber o que cada integrante da equipe estava desenvolvendo, criamos um padrão de atualização de nosso repositório através de branch, pra evitar riscos de códigos serem remontados e se perder trabalhos feitos, assim conseguimos reduzir bastante o retrabalho do nosso código.</p>
+
+## Hard Skills
+
+1. **Novas funções do Typescipt e serviço SMTP Brevo:**
+   - <p align="justify">Atividade: Utilização prática de novos módulos como dotenv, nodemailer, express e mongoose, para atender as exigências do projeto, entendendo como funciona o serviço de banco de dados MongoDB, quais impedimentos na comunicação entre máquina e servidor ao usar um serviço SMTP, uma forma de desenvolvimento linear para não gerar quebras no código entre validações, gerando o menor consumo de tempo e memória da máquina. Além desse trabalho, precisei pesquisar e relembrar sobre sistemas de coordenadas (latitude e longitude), e as fórmulas de conversões de medidas para efetuar filtros baseado em quilometragem.</p>
+
+2. **Aplicativo Mobile (React Native):**
+   - <p align="justify">Atividade: Instalação do React Native, serviço de emulação usando software development kit (ANDROID SDK) do google para disposivido android das versões de 4.4 até 10.3 (escolha minha, é possível escolher mais versões), Máquina Virtual JAVA 1.8 ou acima, e configurações para ambiente de desenvolvimento mobile finalizadas e funcionais, podendo emular seu APP em desenvolvimento no Micro ou no próprio dispositivo mobile conectado via USB após ativar as funcionalidades de desenvolvedor no celular. Esse projeto foi uma experiência de trabalho real e muito profissionalizante.</p>
+
+| Habilidade                                | Nível de Proficiência |
+|-------------------------------------------|-----------------------|
+| Novas funções do TypeScript e serviço SMTP Brevo | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜ |
+| Aplicativo Mobile (React Native)          | ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜ |
+
+## Soft Skills
+
+1. **Proatividade:**
+   - <p align="justify">Atividade: Durante o desenvolvimento do FCManager, identifiquei uma oportunidade de melhorar o processo de recuperação de senha. Embora não fosse inicialmente minha responsabilidade, tomei a iniciativa de desenvolver uma funcionalidade de envio de e-mail para recuperação de senha, utilizando o serviço SMTP da Brevo. Isso não apenas melhorou a segurança do sistema, mas também facilitou a vida dos usuários.</p>
+
+2. **Autonomia:**
+   - <p align="justify">Atividade: Demonstrei autonomia ao assumir a responsabilidade pelo desenvolvimento do componente de filtragem de manobras por localização. Desde a pesquisa sobre sistemas de coordenadas até a implementação e testes, conduzi etapas do processo de forma independente, garantindo uma funcionalidade crucial para o projeto sem necessitar a todo momento de supervisão.</p>
+
+3. **Colaboração:**
+   - <p align="justify">Atividade: Durante uma das sprints, um dos membros da equipe estava enfrentando dificuldades técnicas com a integração do front-end e back-end. Ofereci minha ajuda e colaboramos para resolver os problemas juntos em reunião no Discord. Essa experiência não apenas fortaleceu nossa solução, mas também promoveu um ambiente de trabalho mais coeso e colaborativo.</p>
+
+4. **Entrega de Resultados:**
+   - <p align="justify">Atividade: Concluí a implementação da funcionalidade de envio de e-mails para recuperação de senha dentro do prazo estipulado, apesar de enfrentar desafios técnicos com a configuração do servidor SMTP. Esse comprometimento com a entrega de resultados garantiu que outras funcionalidades dependentes pudessem ser desenvolvidas sem atrasos, contribuindo para o progresso contínuo do projeto.</p>
+
+#### Nível de Proficiência - Soft Skills
+
+| Habilidade          | Nível de Proficiência |
+|---------------------|-----------------------|
+| Entrega de Resultados | ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ |
+| Colaboração   | ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜ |
+| Autonomia     | ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ |
+| Proatividade  | ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ |
+
+[Voltar ao Topo](#topo)
+
+## Considerações finais
+
+<p align="justify">Agradecimento aos colegas da equipe <a href="https://github.com/meta-build">Meta Builders</a> por me proporcionarem um ambiente excelente de trabalho em equipe, onde pude desenvolver habilidades tecnicas e aplicar conforme a área que melhor pude gerar resultados. Também meu agradecimento aos professores da FATEC Prof. Jessen Vidal, pelos ensinamentos e suporte didático, de forma que sempre foi possível encontrar uma solução para as dificuldades no decorrer das APIs.</p>
+
+<p align="justify">Concluindo esta jornada, estou entusiasmado com as oportunidades futuras de aplicar e expandir meu conjunto de habilidades. Estou comprometido com a aprendizagem contínua e ansioso para enfrentar novos desafios. Compartilha uma visão de inovação e excelência? Estou pronto para contribuir de forma construtiva.</p>
+
+<p align="justify">Obrigado por explorar meu portfólio! Se você tem interesse em discutir oportunidades de colaboração, trocar ideias ou simplesmente bater um papo sobre tecnologia, ficarei feliz em me conectar. Sinta-se à vontade para entrar em contato e quem sabe podemos construir algo significante juntos.</p>
