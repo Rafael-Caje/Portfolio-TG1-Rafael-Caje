@@ -11,6 +11,7 @@
 - [Embraer OLD - 3º Semestre](#embraer-old---3º-semestre)
 - [IONIC Deploy Manager - 4º Semestre](#ionic-deploy-manager---4º-semestre)
 - [FCManager - 5º Semestre](#fcmanager---5º-semestre)
+- [AccessEye - 6º Semestre](#altave-accesseye---6º-semestre)
 - [Considerações finais](#considerações-finais)
 
 ## Introdução
@@ -120,8 +121,9 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
  | [2º SEM](https://github.com/cpusfatec/DashBoard)  | 2021 - 1º Semestre  | GSW |
  | [3º SEM](https://github.com/meta-build/Projeto-Embraer)  | 2022 - 2º Semestre  | Embraer |
  | [4º SEM](https://github.com/meta-build/Projeto-IONIC-Health)  | 2023 - 1º Semestre  | IonicHealth |
+ | [5º SEM](https://github.com/meta-build/field-crew-manager)  | 2023 - 2º Semestre  | Imagem |
+ | [6º SEM](https://github.com/Tech-Guardian)  | 2024 - 1º Semestre  | Altave |
 
- 
 <br />
 
 ---
@@ -720,6 +722,151 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 
 [Voltar ao Topo](#topo)
 
+---
+
+## Altave AccessEye - 6º Semestre
+
+> [Repositório do Projeto](https://github.com/Tech-Guardian)
+<p align="center"><img src="https://github.com/Rafael-Caje/Portifolio-TG1-Rafael-Caje/blob/main/image/capa6.png" width="20%"></img></p>
+
+<p align="justify">O Altave AccessEye foi desenvolvido para a empresa ALTAVE com o objetivo de criar um sistema inteligente para controlar e monitorar a movimentação na RedZone, uma área onde a presença e o trânsito de pessoas precisam ser gerenciados com precisão. Utilizamos Vue.js para o frontend, Spring Boot para o backend, e Python com IA para detecção de pessoas, integrando o sistema com MySQL para armazenamento de dados. A metodologia SCRUM guiou a organização e gestão do desenvolvimento, permitindo ajustes contínuos e entregas incrementais.</p>
+
+<p align="justify">O propósito do Altave AccessEye é fornecer funcionalidades essenciais para administradores e usuários finais, garantindo segurança, transparência e facilidade de uso no controle de acesso e análise de dados na RedZone. O sistema permite monitorar a entrada e saída de pessoas, emitir relatórios, configurar parâmetros de tempo de permanência e gerenciar câmeras de monitoramento.</p>
+
+### Requisitos Operacionais e Visuais
+- Campos intuitivos para cadastros e configurações
+- Interface amigável e intuitiva
+- Emissão de alertas e notificações
+
+### Requisitos Técnicos
+- Monitoramento de entrada/saída utilizando IA
+- Visualização e emissão de relatórios
+- Configuração de parâmetros de permanência e datas permitidas
+- Sistema de login para usuários e administradores
+- Gestão de câmeras de monitoramento e redzones
+- Banco de dados MySQL
+
+## O Projeto
+
+<details>
+ <summary><b>Demonstração do APP</b></summary>
+   <br>
+ Sistema de Login
+ <br>
+   <td align="center"><img src="https://github.com/Tech-Guardian/AltaveAccessEye/assets/111146527/login.png" alt=""/>
+   </td>
+ <br>
+ Monitoramento de Entrada/Saída (Dashboard)
+ <br>
+   <td align="center"><img src="https://github.com/Tech-Guardian/AltaveAccessEye/assets/111146527/monitoramento.png" alt=""/>
+   </td>
+   <br>
+ Emissão de Relatórios
+ <br>
+   <td align="center"><img src="https://github.com/Tech-Guardian/AltaveAccessEye/assets/111146527/relatorios.png" alt=""/>
+   </td>
+   <br>
+ Configuração de Parâmetros
+ <br>
+   <td align="center"><img src="https://github.com/Tech-Guardian/AltaveAccessEye/assets/111146527/configuracao.png" alt=""/>
+   </td>
+   <br>
+</details>
+
+<br/>
+
+### Tecnologia do Produto
+Backend: MySQL, Java (Spring Boot), Python (IA) | Frontend: Vue.js
+```
+MySQL - Armazenamento de dados unificados no banco de dados, garantindo eficiência e integridade.
+Spring Boot - Desenvolvimento principal do backend, comunicação com banco de dados, interface com frontend e emulação da API para demonstração de suas funcionalidades.
+Python - Utilizado para desenvolver a IA de detecção de pessoas, integrando modelos YOLOv5 com OpenCV e PyTorch.
+Vue.js - Tecnologia usada para construção das interfaces web, proporcionando uma experiência intuitiva e eficiente para o usuário.
+```
+### Ferramentas
+##### Desenvolvimento do Site
+Template: [Figma](https://www.figma.com) | Desenvolvimento: [Visual Studio Code](https://code.visualstudio.com/) 
+
+##### Edição de Imagem
+Editor e Montagem de imagem: [Polish](https://play.google.com/store/apps/details?id=photo.editor.photoeditor.photoeditorpro&hl=pt_BR&gl=US) | Remover fundos: [Background Eraser](https://play.google.com/store/apps/details?id=com.handycloset.android.eraser&hl=en_US&gl=US)
+
+##### Organização e controle
+Reunião: [Discord](https://discord.com/) e [WhatsApp](https://www.whatsapp.com/) | Documentação: [Excel 2013](https://www.microsoft.com/pt-br/microsoft-365/previous-versions/microsoft-excel-2013) e [JIRA](https://www.atlassian.com/software/jira)
+
+
+## Contribuições Pessoais
+
+<p align="justify">No projeto Altave AccessEye, atuei como Scrum Master, sendo responsável pela organização das tarefas no JIRA e Excel, distribuição das atividades, elaboração do relatório burndown e suporte à equipe via Discord e WhatsApp. Devido ao baixo desempenho inicial, precisei fazer reformulações durante o desenvolvimento, resultando na saída de quatro integrantes. Com uma equipe reduzida, o desempenho melhorou significativamente nas últimas sprints, tanto na entrega das atividades quanto na qualidade do projeto.</p>
+
+### Desenvolvimento de Back-End
+
+<p align="justify">Na primeira sprint, desenvolvi uma IA em Python para detecção automática de pessoas na RedZone, utilizando modelos YOLOv5 com OpenCV e PyTorch. Este sistema foi integrado ao backend em Spring Boot, que gerencia o banco de dados MySQL e a interface com o frontend em Vue.js. O objetivo era monitorar e controlar o fluxo de pessoas nas áreas restritas da ALTAVE.</p>
+
+<p align="justify">Nas sprints seguintes, refinei a lógica de detecção para melhorar a precisão, e após a saída de alguns integrantes, assumi também o desenvolvimento do frontend em Vue.js. Refatorei o código e criei os componentes necessários, alinhando rotas, autorizações, métodos CRUD e outras funcionalidades com o backend. Desenvolvi um mecanismo de comunicação com um servidor Flask para renderizar a tela de detecção do OpenCV diretamente no frontend, além de realizar treinamentos de modelos YOLO para otimizar a acurácia na detecção de portas.</p>
+
+### Contribuições Adicionais
+
+<p align="justify">Durante as dailys e reuniões, mantive a equipe alinhada com os objetivos do projeto, assegurando que cada membro estivesse ciente das tarefas e prazos. Estabelecemos um padrão de atualização do repositório por meio de branches, o que reduziu o retrabalho e garantiu a integridade do código.</p>
+
+<p align="justify">O projeto Altave AccessEye demonstrou a importância de uma gestão eficiente e de uma equipe coesa para o sucesso de um projeto de software. A experiência como Scrum Master, a atuação em diferentes frentes de desenvolvimento e a superação de desafios técnicos e de equipe contribuíram significativamente para o meu crescimento profissional. As habilidades desenvolvidas e aprimoradas ao longo do projeto serão valiosas para futuros desafios na área de tecnologia e desenvolvimento de software.</p>
+
+## Hard Skills
+
+1. **Desenvolvimento de IA com Python e YOLOv5:**
+   - <p align="justify">Atividade: Implementação de um sistema de detecção de pessoas utilizando modelos YOLOv5, integrando OpenCV e PyTorch. O sistema detecta e monitora automaticamente a entrada e saída de pessoas na RedZone, proporcionando controle e segurança nas áreas restritas.</p>
+
+2. **Treinamento de IA com Pytorch e Roboflow:**
+   - <p align="justify">Atividade: Realizei o treinamento de modelos YOLO utilizando PyTorch e Roboflow para melhorar a acurácia na detecção de portas. Utilizei bibliotecas do Roboflow para criar imagens com bounding box e segmentações, otimizando o desempenho da IA para detecção em ambientes específicos (portas e pessoas). Este processo melhorou significativamente a precisão da detecção, adaptando o sistema às necessidades do cliente.</p>
+
+2. **Desenvolvimento Front-End com Vue.js:**
+   - <p align="justify">Atividade: Refatoração e criação de componentes no frontend, integração com o backend Spring Boot, e desenvolvimento de um mecanismo de comunicação para renderizar a tela de detecção do OpenCV. O trabalho incluiu a criação de dashboards, relatórios, gerenciamento de usuários e redzones, e notificações.</p>
+
+2. **Desenvolvimento Back-End com Spring-boot:**
+   - <p align="justify">Atividade: Desenvolvi alguns ajustes na lógica de backend para integrar a comunicação com o frontend em Vue.js. Embora minha experiência inicial fosse limitada, consegui ainda integrar as respostas de entrada e saída da IA e a interface com o frontend para a implementação de funcionalidades como login e coleta de dados do usuário logado.</p>
+
+| Habilidade                            | Nível de Proficiência |
+|---------------------------------------|-----------------------|
+| Desenvolvimento de IA com Python e YOLOv5 | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜ |
+| Treinamento de IA com Pytorch e Roboflow | ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜ |
+| Desenvolvimento Front-End com Vue.js  | ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ |
+| Desenvolvimento Back-End com Spring-boot  | ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜ |
+
+## Soft Skills
+
+1. **Proatividade:**
+   - <p align="justify">Atividade: Durante o desenvolvimento do Altave AccessEye, identifiquei a necessidade de melhorar a detecção de pessoas na RedZone. Iniciei treinamentos adicionais dos modelos YOLO para otimizar a acurácia, o que não estava previsto inicialmente no projeto, mas se mostrou essencial para seu sucesso.</p>
+
+2. **Autonomia:**
+   - <p align="justify">Atividade: Assumi a responsabilidade pelo desenvolvimento do frontend em Vue.js após a saída de membros da equipe. Desde a refatoração do código até a criação de novos componentes e integração com o backend, conduzi todo o processo de forma independente, garantindo a continuidade do projeto.</p>
+
+3. **Colaboração:**
+   - <p align="justify">Atividade: Durante as sprints, colaborei estreitamente com os membros da equipe, resolvendo dúvidas e problemas técnicos em reuniões no Discord e grupos no WhatsApp. Essa colaboração foi fundamental para a entrega das funcionalidades dentro dos prazos estipulados.</p>
+
+4. **Entrega de Resultados:**
+   - <p align="justify">Atividade: Concluí a implementação da IA de detecção de pessoas e a integração com o backend e frontend dentro dos prazos estabelecidos, apesar dos desafios técnicos e das reformulações na equipe. Esse comprometimento garantiu o progresso contínuo e a qualidade do projeto.</p>
+
+#### Nível de Proficiência - Soft Skills
+
+| Habilidade           | Nível de Proficiência |
+|----------------------|-----------------------|
+| Proatividade         | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜ |
+| Autonomia            | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜ |
+| Colaboração          | ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ |
+| Entrega de Resultados | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ |
+
+
+### Documentação e Manual do Usuário
+
+- Para acesso e visualização da documentação, basta acessar o seguinte link: [Documentos](https://github.com/Tech-Guardian/Doc_TechGuardian7/tree/main/Documentos)
+
+### Manual para Instalação do Projeto
+
+- Para acessar o Guia de Instalação do front-end do projeto, basta clicar no link: [Front-end](https://github.com/Tech-Guardian/Doc_TechGuardian7/blob/main/Documentos/GuiaFrontend.pdf)
+
+- Para acessar o Guia de Instalação do back-end do projeto, basta clicar no link: [Back-end](https://github.com/Tech-Guardian/Doc_TechGuardian7/blob/main/Documentos/GuiaBackendIA.pdf)
+
+<hr>
+
 ## Considerações finais
 
 <p align="justify">Agradecimento aos colegas da equipe <a href="https://github.com/meta-build">Meta Builders</a> por me proporcionarem um ambiente excelente de trabalho em equipe, onde pude desenvolver habilidades tecnicas e aplicar conforme a área que melhor pude gerar resultados. Também meu agradecimento aos professores da FATEC Prof. Jessen Vidal, pelos ensinamentos e suporte didático, de forma que sempre foi possível encontrar uma solução para as dificuldades no decorrer das APIs.</p>
@@ -727,3 +874,5 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 <p align="justify">Concluindo esta jornada, estou entusiasmado com as oportunidades futuras de aplicar e expandir meu conjunto de habilidades. Estou comprometido com a aprendizagem contínua e ansioso para enfrentar novos desafios. Compartilha uma visão de inovação e excelência? Estou pronto para contribuir de forma construtiva.</p>
 
 <p align="justify">Obrigado por explorar meu portfólio! Se você tem interesse em discutir oportunidades de colaboração, trocar ideias ou simplesmente bater um papo sobre tecnologia, ficarei feliz em me conectar. Sinta-se à vontade para entrar em contato e quem sabe podemos construir algo significante juntos.</p>
+
+[Voltar ao Topo](#topo)
