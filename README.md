@@ -727,7 +727,7 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 ## Altave AccessEye - 6º Semestre
 
 > [Repositório do Projeto](https://github.com/Tech-Guardian)
-<p align="center"><img src="https://github.com/Rafael-Caje/Portifolio-TG1-Rafael-Caje/blob/main/image/capa6.png" width="20%"></img>
+<p align="center"><img src="https://github.com/Rafael-Caje/Portifolio-TG1-Rafael-Caje/blob/main/image/capa6.png" width="100%"></img></p>
 
 <p align="justify">O Altave AccessEye foi desenvolvido para a empresa ALTAVE com o objetivo de criar um sistema inteligente para controlar e monitorar a movimentação na RedZone, uma área onde a presença e o trânsito de pessoas precisam ser gerenciados com precisão. Utilizamos Vue.js para o frontend, Spring Boot para o backend, e Python com IA para detecção de pessoas, integrando o sistema com MySQL para armazenamento de dados. A metodologia SCRUM guiou a organização e gestão do desenvolvimento, permitindo ajustes contínuos e entregas incrementais.</p>
 
