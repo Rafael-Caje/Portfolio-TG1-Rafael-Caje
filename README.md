@@ -133,7 +133,7 @@ Tenho prática com exatas, cálculo, lógica que é uma área que pratiquei semp
 ## CPU - 1º Semestre
  
 > [Repositório do Projeto](https://github.com/cpusfatec/cpusfatec)
-<p align="center"><img src="https://github.com/Rafael-Caje/Portifolio-TG1-Rafael-Caje/blob/main/image/capa1.jpg" widht="20%"></img>
+<p align="center"><img src="https://github.com/Rafael-Caje/Portifolio-TG1-Rafael-Caje/blob/main/image/capa1.jpg" widht="100%"></img></p>
 
 <p align="justify">O Centro de Programação Universitário (CPU), visa de forma prática e simples, oferecer aos clientes os conteúdos mais visados na área da tecnologia e informação nos dias atuais, o setor que mais cresce no mercado de trabalho. O produto finalizado entregou os seguintes componentes e recursos:</p>
 
@@ -243,7 +243,7 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 ## Dashboard GSW - 2º Semestre
  
 > [Repositório do Projeto](https://github.com/cpusfatec/DashBoard)
-<p align="center"><img src="https://github.com/Rafael-Caje/Portifolio-TG1-Rafael-Caje/blob/main/image/capa2.png" widht="20%"></img>
+<p align="center"><img src="https://github.com/Rafael-Caje/Portifolio-TG1-Rafael-Caje/blob/main/image/capa2.png" widht="100%"></img></p>
 
 <p align="justify">A empresa GSW nos forneceu dois tipos de arquivos, de diferentes modelos de dados, JIRA e JSON, e pediu para criarmos um software que unifique os dados de ambas as fontes, e com isso, um dashboard para a análise desses dados.</p>
 <p align="justify">O layout do Dashboard GSW deveria seguir a paleta de cores da empresa, a análise de dados deveria ter as opções para exibir um comparativo com gráfico de barras e pizza. Que poderiam selecionar se avaliariam projetos em try-out, em andamento, interrompidos ou finalizados. Também a possibilidade de analisar a demanda de trabalho por funcionário.</p>
@@ -336,7 +336,7 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 ## Embraer OLD - 3º Semestre
  
 > [Repositório do Projeto](https://github.com/meta-build/Projeto-Embraer)
-<p align="center"><img src="https://github.com/Rafael-Caje/Portifolio-TG1-Rafael-Caje/blob/main/image/capa3.png" widht="20%"></img>
+<p align="center"><img src="https://github.com/Rafael-Caje/Portifolio-TG1-Rafael-Caje/blob/main/image/capa3.png" widht="100%"></img></p>
 
 <p align="justify">Embraer OLD (Operational Landing Distance) foi uma aplicação WEB, uma espécie de calculadora com a finalidade de processar dados inseridos e retornar o comprimento da pista de pouso ao piloto. Produto destinado especificamente à empresa de aviação.</p>
 <p align="justify">O problema proposto é que hoje esse comprimento é calculado manualmente, e existe o risco de erro humano, que não pode acontecer de forma alguma numa situação de pouso de avião. O nosso produto vem justamente pra atuar nesse ponto, oferecendo mais ferramentas para o piloto ter um pouso tranquilo e sem segurança. Quando se efetua um cálculo de comprimento da pista de pouso, é necessário considerar diversos parâmetros, como gelo na pista, altitude do aeroporto, vento, inclinação, gelo nos flaps, etc. Todos esses parâmetros consideramos por tabelas fornecidas pelo cliente, e elaboramos a calculadora que retorna o comprimento em metros, conforme solicitado.</p>
@@ -459,7 +459,7 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 ## IONIC Deploy Manager - 4º Semestre
  
 > [Repositório do Projeto](https://github.com/meta-build/Projeto-IONIC-Health)
-<p align="center"><img src="https://github.com/Rafael-Caje/Portifolio-TG1-Rafael-Caje/blob/main/image/capa4.png" widht="20%"></img>
+<p align="center"><img src="https://github.com/Rafael-Caje/Portifolio-TG1-Rafael-Caje/blob/main/image/capa4.png" widht="100%"></img></p>
 
 <p align="justify">O IONIC Deploy Manager foi um projeto destinado à empresa IONIC Health solucionando o problema apresentado no kick-off. Foi utilizado react + typescript para o front-end, Node + Typescript para back-end e outras ferramentas para organização e planejamento, além da metodologia SCRUM para o desenvolvimento do projeto.</p>
 <p align="justify">Este projeto tem como objetivo, através de uma aplicação web, resolver o problema de gerenciamento de chamados da empresa, tornando mais organizado a criação de novos chamados, as avaliações das solicitações e o controle de produção das implementações ou correções de erros nos projetos, o usuário alimenta e atualiza as informações, enquanto o sistema faz o processamento e registro para controle.</p>
@@ -590,7 +590,7 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 ## FCManager - 5º Semestre
  
 > [Repositório do Projeto](https://github.com/meta-build/field-crew-manager)
-<p align="center"><img src="https://github.com/Rafael-Caje/Portifolio-TG1-Rafael-Caje/blob/main/image/capa5.png" widht="20%"></img>
+<p align="center"><img src="https://github.com/Rafael-Caje/Portifolio-TG1-Rafael-Caje/blob/main/image/capa5.png" widht="100%"></img></p>
 
 <p align="justify">O FCManager, desenvolvido para a empresa Imagem Geosistemas, é um aplicativo de campo voltado para o gerenciamento eficiente de equipamentos durante operações de conserto e manobras. Na construção desse projeto, adotamos React Native para as interfaces, Typescript para o servidor API, e MongoDB para o armazenamento de dados. A abordagem ágil do SCRUM foi fundamental para organizar e gerenciar o desenvolvimento.</p>
 
