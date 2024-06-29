@@ -222,7 +222,7 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
    - <p align="justify">Atividade: Adaptação a mudanças nos requisitos de projetos, assimilação de novas tecnologias e abordagens, tive que me reunir com o dev pra aprender um pouco sobre programar PHP, no semestre estávamos estudando apenas linguagem C e python.</p>
 
 3. **Organização:**
-   - <p align="justify">Atividade: Gerenciamento de tarefas acadêmicas, cumprimento de prazos, organização de recursos e informações para garantir um fluxo de trabalho eficaz, usamos o Planner da Microsoft e o Discord pra manter as tasks em dia com reunião e dailys, com EasyBacklog foi possível deixar as sprints bem fácil de entender por ser intuitivo.</p>
+   - <p align="justify">Atividade: Gerenciamento de tarefas acadêmicas, cumprimento de prazos, organização de recursos e informações para garantir um fluxo de trabalho eficaz, usamos o Planner da Microsoft e o Discord pra manter as tasks em dia com reunião e dailies, com EasyBacklog foi possível deixar as sprints bem fácil de entender por ser intuitivo.</p>
 
 4. **Trabalho em Equipe:**
    - <p align="justify">Atividade: Colaboração ativa em atividades da equipe, comunicação constante, compartilhamento de conhecimento e suporte aos colegas para alcançar metas coletivas. Cada um pode executar sua tarefa e consegui ajudar na elaboração da documentação, em contato constante com o responsável, criação do vídeo de apresentação após captar as ideias da equipe pra trazer o maior valor do que foi desenvolvido em cada etapa.</p>
@@ -682,7 +682,7 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 
 ### Contribuições Adicionais
 
-<p align="justify">Sempre estivemos em atualização com as dailys em nosso grupo de trabalho pra saber o que cada integrante da equipe estava desenvolvendo, criamos um padrão de atualização de nosso repositório através de branch, pra evitar riscos de códigos serem remontados e se perder trabalhos feitos, assim conseguimos reduzir bastante o retrabalho do nosso código.</p>
+<p align="justify">Sempre estivemos em atualização com as dailies em nosso grupo de trabalho pra saber o que cada integrante da equipe estava desenvolvendo, criamos um padrão de atualização de nosso repositório através de branch, pra evitar riscos de códigos serem remontados e se perder trabalhos feitos, assim conseguimos reduzir bastante o retrabalho do nosso código.</p>
 
 ## Hard Skills
 
@@ -751,24 +751,14 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 <details>
  <summary><b>Demonstração do APP</b></summary>
    <br>
- Sistema de Login
+ Login, Relatórios, Edição Manual, Gerenciamento de Redzones e Usuários.
  <br>
-   <td align="center"><img src="https://github.com/Tech-Guardian/AltaveAccessEye/assets/111146527/login.png" alt=""/>
+   <td align="center"><img src="https://github.com/Tech-Guardian/Doc_TechGuardian7/blob/main/Documentos/full%20proj.gif" alt=""/>
    </td>
  <br>
- Monitoramento de Entrada/Saída (Dashboard)
+ Monitoramento IA de Entrada e Saída (Dashboard)
  <br>
-   <td align="center"><img src="https://github.com/Tech-Guardian/AltaveAccessEye/assets/111146527/monitoramento.png" alt=""/>
-   </td>
-   <br>
- Emissão de Relatórios
- <br>
-   <td align="center"><img src="https://github.com/Tech-Guardian/AltaveAccessEye/assets/111146527/relatorios.png" alt=""/>
-   </td>
-   <br>
- Configuração de Parâmetros
- <br>
-   <td align="center"><img src="https://github.com/Tech-Guardian/AltaveAccessEye/assets/111146527/configuracao.png" alt=""/>
+   <td align="center"><img src="https://github.com/Tech-Guardian/Doc_TechGuardian7/blob/main/Documentos/ia%20running.gif" alt=""/>
    </td>
    <br>
 </details>
@@ -806,7 +796,7 @@ Reunião: [Discord](https://discord.com/) e [WhatsApp](https://www.whatsapp.com/
 
 ### Contribuições Adicionais
 
-<p align="justify">Durante as dailys e reuniões, mantive a equipe alinhada com os objetivos do projeto, assegurando que cada membro estivesse ciente das tarefas e prazos. Estabelecemos um padrão de atualização do repositório por meio de branches, o que reduziu o retrabalho e garantiu a integridade do código.</p>
+<p align="justify">Durante as dailies e reuniões, mantive a equipe alinhada com os objetivos do projeto, assegurando que cada membro estivesse ciente das tarefas e prazos. Estabelecemos um padrão de atualização do repositório por meio de branches, o que reduziu o retrabalho e garantiu a integridade do código.</p>
 
 <p align="justify">O projeto Altave AccessEye demonstrou a importância de uma gestão eficiente e de uma equipe coesa para o sucesso de um projeto de software. A experiência como Scrum Master, a atuação em diferentes frentes de desenvolvimento e a superação de desafios técnicos e de equipe contribuíram significativamente para o meu crescimento profissional. As habilidades desenvolvidas e aprimoradas ao longo do projeto serão valiosas para futuros desafios na área de tecnologia e desenvolvimento de software.</p>
 
